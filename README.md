@@ -1,4 +1,4 @@
-# 🚀 Piscine 42 - Zibrian Cadinot 🌊
+ 🚀 Piscine 42 - Zibrian Cadinot 🌊
 
 Bienvenue sur mon github en ce moment je passe à la **piscine de l'école 42** !  
 Ici, je partage tous mes projets, exercices et avancées de cette expérience intense et formatrice.
@@ -24,5 +24,5 @@ Un véritable challenge technique, physique et mental pour repousser ses limites
 ## 📂 Dépôt
 
 Tu peux retrouver tout le code, exercices et projets dans mon dépôt :  
-➡️ [42_Piscine](https://github.com/Zibgame/42_Piscine)  
+# ➡️ [42_Piscine](https://github.com/Zibgame/42_Piscine)  
 
