@@ -1,4 +1,4 @@
-# 🚀 Piscine 42 - [Ton prénom / Pseudo] 🌊
+# 🚀 Piscine 42 - Zibrian Cadinot 🌊
 
 Bienvenue sur mon dépôt dédié à la **piscine de l'école 42** !  
 Ici, je partage tous mes projets, exercices et avancées de cette expérience intense et formatrice.
