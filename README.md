@@ -26,3 +26,9 @@ Un véritable challenge technique, physique et mental pour repousser ses limites
 Tu peux retrouver tout le code, exercices et projets dans mon dépôt :  
 # ➡️ [42_Piscine](https://github.com/Zibgame/42_Piscine)  
 
+## 📂 Autre Projet
+
+Mes autre projet:  
+# ➡️ [Nvim Config](https://github.com/Zibgame/Vim-Config)  
+
+
