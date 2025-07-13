@@ -31,4 +31,6 @@ Tu peux retrouver tout le code, exercices et projets dans mon dépôt :
 Mes autre projet:  
 # ➡️ [Nvim Config](https://github.com/Zibgame/Vim-Config)  
 
+# ➡️ [Improve-Norminette](https://github.com/Zibgame/improve-norminette)  
+
 
