@@ -29,7 +29,9 @@ Tu peux retrouver tout le code, exercices et projets dans mon dépôt :
 ## 📂 Autre Projet
 
 Mes autre projet:  
-# ➡️ [Nvim Config](https://github.com/Zibgame/Vim-Config)  
+# ➡️ [Nvim Config](https://github.com/Zibgame/Nvim-Config)  
+
+# ➡️ [Vim Config](https://github.com/Zibgame/Vim-config)  
 
 # ➡️ [Improve-Norminette](https://github.com/Zibgame/improve-norminette)  
 
