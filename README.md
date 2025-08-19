@@ -5,13 +5,6 @@ Ici, tu trouveras mes projets, configs et un peu de tout ce que je code au quoti
 
 ---
 
-## 🌊 Mon parcours à 42
-- 🚀 Admis après la **Piscine** (4 semaines intenses 💀)  
-- ⚡ Apprentissage en **C, shell, algorithmique**  
-- 🤝 Collaboration et projets en équipe  
-
----
-
 ## 🛠️ Mes projets
 - [42 Piscine](https://github.com/Zibgame/42_Piscine)  
 - [Improve-Norminette](https://github.com/Zibgame/improve-norminette)  
