@@ -1,38 +1,33 @@
-# 🚀 Piscine 42 - Zibrian Cadinot 🌊
+# 👨‍💻 Étudiant à 42 - Zibrian Cadinot
 
-Bienvenue sur mon github en ce moment je passe à la **piscine de l'école 42** !  
-Ici, je partage tous mes projets, exercices et avancées de cette expérience intense et formatrice.
-
----
-
-## 📚 À propos de la piscine 42
-
-La piscine 42 est une immersion de **4 semaines** qui teste nos capacités d’apprentissage, d’adaptation, et surtout de travail en équipe.  
-Un véritable challenge technique, physique et mental pour repousser ses limites ! 💪
+Salut ! Moi c’est **Zibrian**, actuellement étudiant à l’**école 42** après avoir réussi la piscine.  
+Ici, tu trouveras mes projets, configs et un peu de tout ce que je code au quotidien.  
 
 ---
 
-## 🎯 Objectifs personnels
-
-- ⚡ **Approfondir mes bases en C** pour maîtriser pleinement ce langage  
-- 🧠 **Renforcer ma logique algorithmique** et ma résolution de problèmes  
-- 🤝 **Développer mes compétences** en travail collaboratif et gestion de projet  
-- 🔥 **Améliorer ma rigueur, persévérance et gestion du stress**
+## 🌊 Mon parcours à 42
+- 🚀 Admis après la **Piscine** (4 semaines intenses 💀)  
+- ⚡ Apprentissage en **C, shell, algorithmique**  
+- 🤝 Collaboration et projets en équipe  
 
 ---
 
-## 📂 Dépôt
+## 🛠️ Mes projets
+- [42 Piscine](https://github.com/Zibgame/42_Piscine)  
+- [Improve-Norminette](https://github.com/Zibgame/improve-norminette)  
+- [Nvim Config](https://github.com/Zibgame/Nvim-Config)  
+- [Vim Config](https://github.com/Zibgame/Vim-config)  
 
-Tu peux retrouver tout le code, exercices et projets dans mon dépôt :  
-# ➡️ [42_Piscine](https://github.com/Zibgame/42_Piscine)  
+---
 
-## 📂 Autre Projet
+## 📊 Stats GitHub
+![Zibrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=tokyonight&hide_border=true)  
 
-Mes autre projet:  
-# ➡️ [Nvim Config](https://github.com/Zibgame/Nvim-Config)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=compact&theme=tokyonight&hide_border=true)  
 
-# ➡️ [Vim Config](https://github.com/Zibgame/Vim-config)  
+---
 
-# ➡️ [Improve-Norminette](https://github.com/Zibgame/improve-norminette)  
+## 🎯 Objectif
+Continuer à progresser, apprendre chaque jour et partager mes projets ici.  
 
-
+---
