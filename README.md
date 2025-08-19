@@ -1,6 +1,6 @@
 # 👨‍💻 Étudiant à 42 - Zibrian Cadinot
 
-Salut ! Moi c’est **Zibrian**, étudiant à l’**école 42** après avoir réussi la piscine.  
+Salut ! Moi c’est **Zibrian**, étudiant à l’**école 42**. 
 Ici, tu trouveras mes projets à 42 et un peu de tout ce que je code au quotidien.  
 
 ---
