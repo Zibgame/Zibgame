@@ -1,7 +1,7 @@
 # 👨‍💻 Étudiant à 42 - Zibrian Cadinot
 
-Salut ! Moi c’est **Zibrian**, actuellement étudiant à l’**école 42** après avoir réussi la piscine.  
-Ici, tu trouveras mes projets, configs et un peu de tout ce que je code au quotidien.  
+Salut ! Moi c’est **Zibrian**, étudiant à l’**école 42** après avoir réussi la piscine.  
+Ici, tu trouveras mes projets à 42 et un peu de tout ce que je code au quotidien.  
 
 ---
 
@@ -21,6 +21,4 @@ Ici, tu trouveras mes projets, configs et un peu de tout ce que je code au quoti
 ---
 
 ## 🎯 Objectif
-Continuer à progresser, apprendre chaque jour et partager mes projets ici.  
-
----
+Continuer à progresser, apprendre chaque jour et partager mes projets ici.
