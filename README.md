@@ -14,7 +14,7 @@ Ici, tu trouveras mes projets à 42 et un peu de tout ce que je code au quotidie
 ---
 
 ## 📊 Stats GitHub
-![Zibrian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=pie&theme=ambient_gradient&hide_border=true)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=compact&theme=ambient_gradient&hide_border=true)   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zibgame)](https://github.com/anuraghazra/github-readme-stats)
+![Zibrian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=pie&theme=ambient_gradient&hide_border=true)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=compact&theme=ambient_gradient&hide_border=true)   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zibgame)](https://github.com/Zibgame/github-readme-stats)
 
 ## 🎯 Objectif
 Continuer à progresser, apprendre chaque jour et partager mes projets ici.
