@@ -14,7 +14,7 @@ Ici, tu trouveras mes projets à 42 et un peu de tout ce que je code au quotidie
 ---
 
 ## 📊 Stats GitHub
-![Zibrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=ambient_gradient&hide_border=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=compact&theme=ambient_gradient&hide_border=true)  
+![Zibrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=ambient_gradient&hide_border=true)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=compact&theme=ambient_gradient&hide_border=true)  
 
 ---
 
