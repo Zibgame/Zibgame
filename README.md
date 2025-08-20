@@ -12,7 +12,6 @@ Ici, tu trouveras mes projets à 42 et un peu de tout ce que je code au quotidie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
 </p>
----
 
 ## 🛠️ Mes projets
 - [42 Piscine](https://github.com/Zibgame/42_Piscine)  
