@@ -23,7 +23,7 @@ Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidi
 ## 🗂️ Projets 42
 - [42 Piscine](https://github.com/Zibgame/42_Piscine)  
 - [Libft](https://github.com/Zibgame/libft)  
-
+- [get_next_line](https://github.com/Zibgame/get_next_line)  
 ---
 
 ## 🚀 Autres Projets
