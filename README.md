@@ -25,6 +25,7 @@ Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidi
 - [Libft](https://github.com/Zibgame/libft)  
 - [get_next_line](https://github.com/Zibgame/get_next_line)
 - [ft_printf](https://github.com/Zibgame/ft_printf)
+- [push_swap](https://github.com/Zibgame/push_swap)
 ---
 
 ## 🚀 Autres Projets
