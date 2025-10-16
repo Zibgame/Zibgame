@@ -3,6 +3,7 @@
 Salut ! Moi c’est **Zibrian**, étudiant à l’**École 42**.  
 Ici, tu trouveras mes projets réalisés à 42 ainsi que d’autres projets personnels que je développe en parallèle.  
 
+---
 
 ## 🛠️ Languages & Tools
 
@@ -19,6 +20,7 @@ Ici, tu trouveras mes projets réalisés à 42 ainsi que d’autres projets pers
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
 </p>
 
+---
 
 ## 🗂️ Projets 42
 - [42 Piscine](https://github.com/Zibgame/42_Piscine)  
@@ -30,6 +32,10 @@ Ici, tu trouveras mes projets réalisés à 42 ainsi que d’autres projets pers
 ## 🚀 Autres
 - [Nvim Config](https://github.com/Zibgame/Nvim-Config) — Ma configuration personnalisée de Neovim, rapide et modulaire.  
 - [Vim Config](https://github.com/Zibgame/Vim-config) — Configuration Vim minimaliste inspirée de mon workflow à 42.  
+- [42.nvim](https://github.com/Zibgame/42.nvim) — Une distribution Neovim optimisée pour l’école 42 (fork de LazyVim).  
+- **Fortnite Maps** — Création de maps compétitives (1v1, 2v2, 3v3) et de training maps sous UEFN.  
+- **Projet “Z-something”** — IDE en développement, inspiré de Vim, entièrement écrit en C.
+
 ---
 
 ## 📊 Statistiques GitHub
