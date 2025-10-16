@@ -33,8 +33,7 @@ Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidi
 ---
 
 ## 📊 Statistiques GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=pie&theme=ambient_gradient&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=ambient_gradient&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=pie&theme=ambient_gradient&hide_border=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=ambient_gradient&hide_border=true)
 
 ---
 
