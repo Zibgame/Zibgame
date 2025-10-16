@@ -29,9 +29,8 @@ Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidi
 ---
 
 ## 🚀 Autres Projets
+- [Vim Config](https://github.com/Zibgame/Vim-config) — Configuration Vim inspirée de mon environnement 42.
 - [Nvim Config](https://github.com/Zibgame/Nvim-Config) — Ma configuration personnalisée de Neovim.  
-- [Vim Config](https://github.com/Zibgame/Vim-config) — Configuration Vim inspirée de mon environnement 42.  
-
 ---
 
 ## 📊 Statistiques GitHub
