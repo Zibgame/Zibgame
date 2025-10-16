@@ -1,7 +1,6 @@
 # 👨‍💻 Étudiant à 42 - Zibrian Cadinot
 
-Salut ! Moi c’est **Zibrian**, étudiant à l’**École 42**.  
-Ici, tu trouveras mes projets réalisés à 42 ainsi que d’autres projets personnels que je développe en parallèle.  
+Salut ! Moi c’est **Zibrian**, étudiant à l’**école 42**. Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidien. 
 
 ---
 
