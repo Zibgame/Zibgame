@@ -33,7 +33,7 @@ Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidi
 ## 🚀 Autres Projets
 - [Vim Config](https://github.com/Zibgame/Vim-config) — Configuration Vim inspirée de mon environnement 42.
 - [Nvim Config](https://github.com/Zibgame/Nvim-Config) — Ma configuration personnalisée de Neovim.
-- [ft_randint](https://github.com/Zibgame/Nvim-Config) — Generateur de nombre speudo aleatoire.  
+- [ft_randint](https://github.com/Zibgame/ft_randint) — Generateur de nombre speudo aleatoire.  
 ---
 
 ## 📊 Statistiques GitHub
