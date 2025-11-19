@@ -26,9 +26,9 @@ Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidi
 - [get_next_line](https://github.com/Zibgame/get_next_line)
 - [ft_printf](https://github.com/Zibgame/ft_printf)
 - [Born2beRoot](https://github.com/Zibgame/Born2beRoot)
-- [push_swap](https://github.com/Zibgame/push_swap)
-- [So Long](https://github.com/Zibgame/so_long)
 - [Minitalk](https://github.com/Zibgame/minitalk)
+- [So Long](https://github.com/Zibgame/so_long)
+- [push_swap](https://github.com/Zibgame/push_swap)
 ---
 
 ## 🚀 Autres Projets
