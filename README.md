@@ -30,6 +30,7 @@ Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidi
 - [So Long](https://github.com/Zibgame/so_long)
 - [push_swap](https://github.com/Zibgame/push_swap)
 - [Philosophers](https://github.com/Zibgame/Philosophers)
+- [Minishell](https://github.com/Zibgame/Philosophers)
 ---
 
 ## 🚀 Autres Projets
