@@ -46,11 +46,14 @@
 ---
 
 ## 🚀 Autres Projets
-- [Vim Config](https://github.com/Zibgame/Vim-config) — Configuration Vim inspirée de mon environnement 42.
-- [Nvim Config](https://github.com/Zibgame/Nvim-Config) — Ma configuration personnalisée de Neovim.
-- [zsh-config](https://github.com/Zibgame/zsh-config) — Ma configuration personnalisée de Neovim.
-- [Asm_Lib](https://github.com/Zibgame/asm-lib) — Petite librairie d’exercices assembleur pour apprendre et tester des fonctions bas niveau.
-- [ft_randint](https://github.com/Zibgame/ft_randint) — Generateur de nombre speudo aleatoire.  
+| Project                                                     | Description                                              |
+| ----------------------------------------------------------- | -------------------------------------------------------- |
+| **[Vim Config](https://github.com/Zibgame/Vim-config)**     | My Vim configuration inspired by the 42 environment.     |
+| **[Neovim Config](https://github.com/Zibgame/Nvim-Config)** | My custom Neovim setup.                                  |
+| **[Zsh Config](https://github.com/Zibgame/zsh-config)**     | Personalized Zsh configuration.                          |
+| **[Asm Lib](https://github.com/Zibgame/asm-lib)**           | Small assembly practice library for low-level exercises. |
+| **[ft_randint](https://github.com/Zibgame/ft_randint)**     | Pseudo-random number generator in C.                     |
+
 ---
 
 ## 📊 Statistiques GitHub
