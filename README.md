@@ -1,5 +1,7 @@
 <img src="gif/welcome-header.gif"/>
 
+---
+
 # 👨‍💻 Étudiant à 42 - Zibrian Cadinot
 
 Salut ! Moi c’est **Zibrian**, étudiant à l’**École 42**.  
