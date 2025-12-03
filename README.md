@@ -30,18 +30,18 @@
 
 ## 🗂️ Projets 42
 
-| Projet            | Description                                                                                               |
-| ----------------- | --------------------------------------------------------------------------------------------------------- |
-| **Piscine**       | Base du C, shell, logique. → [Repo](https://github.com/Zibgame/42_Piscine)                                |
-| **Libft**         | Librairie perso (fonctions C ré-implémentées). → [Repo](https://github.com/Zibgame/libft)                 |
-| **get_next_line** | Lecture ligne par ligne d’un fichier/STDIN. → [Repo](https://github.com/Zibgame/get_next_line)            |
-| **ft_printf**     | Recréation de printf avec parsing custom. → [Repo](https://github.com/Zibgame/ft_printf)                  |
-| **Born2beRoot**   | Setup serveur Debian + sécurité + virtualisation. → [Repo](https://github.com/Zibgame/Born2beRoot)        |
-| **Minitalk**      | Communication entre processus via signaux UNIX. → [Repo](https://github.com/Zibgame/minitalk)             |
-| **So Long**       | Petit jeu 2D en C avec MLX. → [Repo](https://github.com/Zibgame/so_long)                                  |
-| **Push Swap**     | Tri minimal d’une pile via instructions. → [Repo](https://github.com/Zibgame/push_swap)                   |
-| **Philosophers**  | Simulateur multithread → gestion des deadlocks & mutex. → [Repo](https://github.com/Zibgame/Philosophers) |
-| **Minishell**     | Mini shell POSIX : parsing, pipes, builtins, execve. → [Repo](https://github.com/Zibgame/Minishell)       |
+| Project                                                       | Description                                           |
+| ------------------------------------------------------------- | ----------------------------------------------------- |
+| **[42 Piscine](https://github.com/Zibgame/42_Piscine)**       | Basics of C, shell, logic, and algorithms.            |
+| **[Libft](https://github.com/Zibgame/libft)**                 | Custom C library rewriting standard functions.        |
+| **[get_next_line](https://github.com/Zibgame/get_next_line)** | Read a file line by line efficiently.                 |
+| **[ft_printf](https://github.com/Zibgame/ft_printf)**         | Reimplementation of printf with custom parsing.       |
+| **[Born2beRoot](https://github.com/Zibgame/Born2beRoot)**     | Debian server setup, security, virtualization.        |
+| **[Minitalk](https://github.com/Zibgame/minitalk)**           | Inter-process communication using UNIX signals.       |
+| **[So Long](https://github.com/Zibgame/so_long)**             | Small 2D game in C using the MiniLibX.                |
+| **[Push Swap](https://github.com/Zibgame/push_swap)**         | Sorting algorithm using push/swap operations.         |
+| **[Philosophers](https://github.com/Zibgame/Philosophers)**   | Multithreading simulation, deadlock & mutex handling. |
+| **[Minishell](https://github.com/Zibgame/Minishell)**         | Small POSIX shell: parsing, pipes, builtins, execve.  |
 
 ---
 
