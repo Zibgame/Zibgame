@@ -6,7 +6,7 @@
 
 ---
 
-# <img src="gif/man.gif" width="30"> 42 Student — Zibrian Cadinot
+# <img src="gif/man.png" width="30"> 42 Student — Zibrian Cadinot
 
 Passionate about low-level programming, game development, and developer tools.  
 Here you’ll find all my 42 projects as well as my personal work.
