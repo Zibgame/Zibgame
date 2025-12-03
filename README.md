@@ -56,12 +56,6 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 ---
 
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 Objectif
 Forge yourself daily; even stars are shaped by pressure and time.
 
