@@ -1,4 +1,4 @@
-<img src="gif/welcome-header.gif"/>
+<img src="gif/welcome-header.gif" height="42" width="42"/>
 
 ---
 
