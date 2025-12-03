@@ -57,7 +57,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=pie&theme=tokyonight&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
