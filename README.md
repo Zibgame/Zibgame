@@ -30,18 +30,19 @@
 
 ## 🗂️ Projets 42
 
-| Projet | Repo |
-|--------|------|
-| Piscine | [42_Piscine](https://github.com/Zibgame/42_Piscine) |
-| Libft | [libft](https://github.com/Zibgame/libft) |
-| get_next_line | [get_next_line](https://github.com/Zibgame/get_next_line) |
-| ft_printf | [ft_printf](https://github.com/Zibgame/ft_printf) |
-| Born2beRoot | [Born2beRoot](https://github.com/Zibgame/Born2beRoot) |
-| Minitalk | [minitalk](https://github.com/Zibgame/minitalk) |
-| So Long | [so_long](https://github.com/Zibgame/so_long) |
-| Push Swap | [push_swap](https://github.com/Zibgame/push_swap) |
-| Philosophers | [Philosophers](https://github.com/Zibgame/Philosophers) |
-| Minishell | [Minishell](https://github.com/Zibgame/Minishell) |
+| Projet            | Description                                                                                               |
+| ----------------- | --------------------------------------------------------------------------------------------------------- |
+| **Piscine**       | Base du C, shell, logique. → [Repo](https://github.com/Zibgame/42_Piscine)                                |
+| **Libft**         | Librairie perso (fonctions C ré-implémentées). → [Repo](https://github.com/Zibgame/libft)                 |
+| **get_next_line** | Lecture ligne par ligne d’un fichier/STDIN. → [Repo](https://github.com/Zibgame/get_next_line)            |
+| **ft_printf**     | Recréation de printf avec parsing custom. → [Repo](https://github.com/Zibgame/ft_printf)                  |
+| **Born2beRoot**   | Setup serveur Debian + sécurité + virtualisation. → [Repo](https://github.com/Zibgame/Born2beRoot)        |
+| **Minitalk**      | Communication entre processus via signaux UNIX. → [Repo](https://github.com/Zibgame/minitalk)             |
+| **So Long**       | Petit jeu 2D en C avec MLX. → [Repo](https://github.com/Zibgame/so_long)                                  |
+| **Push Swap**     | Tri minimal d’une pile via instructions. → [Repo](https://github.com/Zibgame/push_swap)                   |
+| **Philosophers**  | Simulateur multithread → gestion des deadlocks & mutex. → [Repo](https://github.com/Zibgame/Philosophers) |
+| **Minishell**     | Mini shell POSIX : parsing, pipes, builtins, execve. → [Repo](https://github.com/Zibgame/Minishell)       |
+
 ---
 
 ## 🚀 Autres Projets
