@@ -4,12 +4,10 @@
 
 ---
 
-<h1 align="center">👨‍💻 Étudiant à 42 — Zibrian Cadinot</h1>
+# 👨‍💻 42 Student — Zibrian Cadinot
 
-<p align="center">
-  Étudiant passionné par le bas niveau, les jeux vidéo et les outils développeur.  
-  Je partage ici tous mes projets réalisés à 42 ainsi que mes travaux personnels.
-</p>
+Passionate about low-level programming, game development, and developer tools.  
+Here you’ll find all my 42 projects as well as my personal work.
 
 ---
 
