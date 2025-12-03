@@ -56,8 +56,9 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 ---
 
-## 📊 Statistiques GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=pie&theme=ambient_gradient&hide_border=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=ambient_gradient&hide_border=true)
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zibgame&layout=pie&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zibgame&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
