@@ -65,4 +65,4 @@ Here you’ll find all my 42 projects as well as my personal work.
 ## 🎯 Objectif
 Forge yourself daily; even stars are shaped by pressure and time.
 
-Created by Zibgame
+— Zibgame
