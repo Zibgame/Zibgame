@@ -1,5 +1,6 @@
-<img src="gif/welcome-header.gif" height="720" width="720"/>
-
+<p align="center">
+  <img src="gif/welcome-header.gif" height="720" width="720"/>
+</p>
 ---
 
 # 👨‍💻 Étudiant à 42 - Zibrian Cadinot
