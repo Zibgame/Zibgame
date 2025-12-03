@@ -57,7 +57,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 ---
 
 <h2>📊 GitHub Stats</h2>
-  <img class="big" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zibgame&theme=default" alt="GitHub Profile Summary">
+  <img class="big" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zibgame&theme=aura" alt="GitHub Profile Summary">
 
 ## 🎯 Objectif
 Forge yourself daily; even stars are shaped by pressure and time.
