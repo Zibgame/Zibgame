@@ -45,7 +45,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 ---
 
-## <img src="gif/fuse.gif" width="500"> Autres Projets
+## <img src="gif/fuse.gif" width="50"> Autres Projets
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
 | **[Vim Config](https://github.com/Zibgame/Vim-config)**     | My Vim configuration inspired by the 42 environment.     |
