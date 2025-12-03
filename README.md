@@ -6,7 +6,7 @@
 
 ---
 
-# 👨‍💻 42 Student — Zibrian Cadinot
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> 42 Student — Zibrian Cadinot
 
 Passionate about low-level programming, game development, and developer tools.  
 Here you’ll find all my 42 projects as well as my personal work.
