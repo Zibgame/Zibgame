@@ -63,7 +63,6 @@ Here you’ll find all my 42 projects as well as my personal work.
 ---
 
 ## 🎯 Objectif
-Continuer à progresser, apprendre chaque jour et partager mes projets ici.  
-Mon but : développer mes compétences en **programmation système**, en **outils pour développeurs** et en **création de jeux**.
+Forge yourself daily; even stars are shaped by pressure and time.
 
 Created by Zibgame
