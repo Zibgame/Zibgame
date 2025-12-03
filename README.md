@@ -29,16 +29,19 @@
 ---
 
 ## 🗂️ Projets 42
-- [42 Piscine](https://github.com/Zibgame/42_Piscine)  
-- [Libft](https://github.com/Zibgame/libft)
-- [get_next_line](https://github.com/Zibgame/get_next_line)
-- [ft_printf](https://github.com/Zibgame/ft_printf)
-- [Born2beRoot](https://github.com/Zibgame/Born2beRoot)
-- [Minitalk](https://github.com/Zibgame/minitalk)
-- [So Long](https://github.com/Zibgame/so_long)
-- [push_swap](https://github.com/Zibgame/push_swap)
-- [Philosophers](https://github.com/Zibgame/Philosophers)
-- [Minishell](https://github.com/Zibgame/Minishell)
+
+| Projet | Repo |
+|--------|------|
+| Piscine | [42_Piscine](https://github.com/Zibgame/42_Piscine) |
+| Libft | [libft](https://github.com/Zibgame/libft) |
+| get_next_line | [get_next_line](https://github.com/Zibgame/get_next_line) |
+| ft_printf | [ft_printf](https://github.com/Zibgame/ft_printf) |
+| Born2beRoot | [Born2beRoot](https://github.com/Zibgame/Born2beRoot) |
+| Minitalk | [minitalk](https://github.com/Zibgame/minitalk) |
+| So Long | [so_long](https://github.com/Zibgame/so_long) |
+| Push Swap | [push_swap](https://github.com/Zibgame/push_swap) |
+| Philosophers | [Philosophers](https://github.com/Zibgame/Philosophers) |
+| Minishell | [Minishell](https://github.com/Zibgame/Minishell) |
 ---
 
 ## 🚀 Autres Projets
