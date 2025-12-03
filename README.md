@@ -4,10 +4,12 @@
 
 ---
 
-# 👨‍💻 Étudiant à 42 - Zibrian Cadinot
+<h1 align="center">👨‍💻 Étudiant à 42 — Zibrian Cadinot</h1>
 
-Salut ! Moi c’est **Zibrian**, étudiant à l’**École 42**.  
-Ici, tu trouveras mes projets réalisés à 42 et tout ce que je code au quotidien.  
+<p align="center">
+  Étudiant passionné par le bas niveau, les jeux vidéo et les outils développeur.  
+  Je partage ici tous mes projets réalisés à 42 ainsi que mes travaux personnels.
+</p>
 
 ---
 
