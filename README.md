@@ -48,12 +48,12 @@ Here you’ll find all my 42 projects as well as my personal work.
 ## <img src="gif/fuse.gif" width="30">  Others Projets
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
+| **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
+| **[Asm Lib](https://github.com/Zibgame/asm-lib)**           | Small assembly practice library for low-level exercises. |
+| **[ft_randint](https://github.com/Zibgame/ft_randint)**     | Pseudo-random number generator in C.                     |
 | **[Vim Config](https://github.com/Zibgame/Vim-config)**     | My Vim configuration inspired by the 42 environment.     |
 | **[Neovim Config](https://github.com/Zibgame/Nvim-Config)** | My custom Neovim setup.                                  |
 | **[Zsh Config](https://github.com/Zibgame/zsh-config)**     | Personalized Zsh configuration.                          |
-| **[Asm Lib](https://github.com/Zibgame/asm-lib)**           | Small assembly practice library for low-level exercises. |
-| **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
-| **[ft_randint](https://github.com/Zibgame/ft_randint)**     | Pseudo-random number generator in C.                     |
 
 ---
 
