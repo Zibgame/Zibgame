@@ -52,6 +52,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | **[Neovim Config](https://github.com/Zibgame/Nvim-Config)** | My custom Neovim setup.                                  |
 | **[Zsh Config](https://github.com/Zibgame/zsh-config)**     | Personalized Zsh configuration.                          |
 | **[Asm Lib](https://github.com/Zibgame/asm-lib)**           | Small assembly practice library for low-level exercises. |
+| **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | Pseudo-random number generator in C.        |
 | **[ft_randint](https://github.com/Zibgame/ft_randint)**     | Pseudo-random number generator in C.                     |
 
 ---
