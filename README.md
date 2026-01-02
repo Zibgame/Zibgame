@@ -49,6 +49,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
 | **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
+| **[Ai-Guitar-Midi-Amp-Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller)** | AI-powered guitar amplifier controller |
 | **[Asm Lib](https://github.com/Zibgame/asm-lib)**           | Small assembly practice library for low-level exercises. |
 | **[ft_randint](https://github.com/Zibgame/ft_randint)**     | Pseudo-random number generator in C.                     |
 | **[Vim Config](https://github.com/Zibgame/Vim-config)**     | My Vim configuration inspired by the 42 environment.     |
