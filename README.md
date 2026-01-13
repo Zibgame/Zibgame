@@ -66,7 +66,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 Forge yourself daily; even stars are shaped by pressure and time.
 
 <a href="https://profile.intra.42.fr/users/zcadinot">
-    <img src="https://badge.mediaplus.ma/binary/zcadinot?1337Badge=off&UM6P=off" alt="zcadinot" style="height: 40%; width: 100%; object-fit: cover;">
+    <img src="https://badge.mediaplus.ma/binary/zcadinot?1337Badge=off&UM6P=off" alt="zcadinot" style="height: 40%; width: 40%; object-fit: cover;">
 </a>
 
 — Zibgame
