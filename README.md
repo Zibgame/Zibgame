@@ -63,7 +63,7 @@ Here you’ll find all my 42 projects as well as my personal work.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zibgame&theme=github_dark"/>
 
 ## 42 profile
-Forge yourself daily; even stars are shaped by pressure and time.
+### zcadinot
 
 <a href="https://profile.intra.42.fr/users/zcadinot">
     <img src="https://badge.mediaplus.ma/binary/zcadinot?1337Badge=off&UM6P=off" alt="zcadinot" style="height: 40%; width: 40%; object-fit: cover;">
