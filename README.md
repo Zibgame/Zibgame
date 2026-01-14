@@ -42,7 +42,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | **[Push Swap](https://github.com/Zibgame/push_swap)**         | Sorting algorithm using push/swap operations.         |
 | **[Philosophers](https://github.com/Zibgame/Philosophers)**   | Multithreading simulation, deadlock & mutex handling. |
 | **[Minishell](https://github.com/Zibgame/Minishell)**         | Small POSIX shell: parsing, pipes, builtins, execve.  |
-| **[CUBE-3D](https://github.com/pixyde/cube-3d)**           | Raycaster Game like Wolfeinstein|
+| **[CUBE-3D](https://github.com/Pixyde/cub3d)**           | Raycaster Game like Wolfeinstein|
 
 ---
 
