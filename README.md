@@ -43,7 +43,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | **[Philosophers](https://github.com/Zibgame/Philosophers)**   | Multithreading simulation, deadlock & mutex handling. |
 | **[Minishell](https://github.com/Zibgame/Minishell)**         | Small POSIX shell: parsing, pipes, builtins, execve.  |
 | **[CUBE-3D](https://github.com/Pixyde/cub3d)**                | Raycaster Game like Wolfeinstein                      |
-| **[CUBE-3D](https://github.com/Zibgame/42_cpp)**              | The base of C++ language                              |
+| **[42-C++](https://github.com/Zibgame/42_cpp)**              | The base of C++ language                              |
 
 ---
 
