@@ -8,7 +8,7 @@
 
 # <img src="gif/man.png" width="30"> 42 Student — Zibrian Cadinot
 
-Passionate about low-level programming, game development, and developer tools.  
+Passionate about low-level programming, cybersecurity, game development, and developer tools.  
 Here you’ll find all my 42 projects as well as my personal work.
 
 ---
@@ -23,7 +23,7 @@ Here you’ll find all my 42 projects as well as my personal work.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>``
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
