@@ -1,10 +1,10 @@
----
+<!--
 
-// <p align="center">
-  // <img src="gif/welcome-header1.gif" width="500">
-// </p>
+<p align="center">
+  <img src="gif/welcome-header1.gif" width="500">
+</p>
 
----
+-->
 
 # <img src="gif/man.png" width="30"> 42 Student — Zibrian Cadinot
 
