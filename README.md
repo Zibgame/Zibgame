@@ -1,8 +1,8 @@
 ---
 
-<p align="center">
-  <img src="gif/welcome-header1.gif" width="500">
-</p>
+// <p align="center">
+  // <img src="gif/welcome-header1.gif" width="500">
+// </p>
 
 ---
 
