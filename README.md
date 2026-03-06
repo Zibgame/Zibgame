@@ -75,7 +75,5 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 ## 🎯 Objectif
 .𖥔 ݁ ˖🛸── Forge yourself daily; even stars are shaped by pressure and time. ✦
-<h1 align="center">
-  <span style="color:#ff6b6b;">Welcome</span>
-</h1>
-— Zibrian Cadinot
+
+— Zibrian Cadinot —
