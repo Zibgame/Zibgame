@@ -52,6 +52,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
 | **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
+| **[Zim](https://github.com/Zibgame/zim)**                   |  The Vim-inspired text editor written in C++ |
 | **[Ai-Guitar-Midi-Amp-Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller)** | AI-powered guitar amplifier controller |
 | **[Norm-Ai-Fixer](https://github.com/Zibgame/norm-ai-fixer)** | Offline AI code normalizer. |
 | **[Asm Lib](https://github.com/Zibgame/asm-lib)**           | Small assembly practice library for low-level exercises. |
