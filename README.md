@@ -53,6 +53,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 ## <img src="gif/fuse.gif" width="30">  Others Projets
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
+| **[win32-dll-injector](https://github.com/Zibgame/win32-dll-injector)** | Cool DLL injector using Win32 API (OpenProcess, VirtualAllocEx, CreateRemoteThread). |
 | **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
 | **[Zim](https://github.com/Zibgame/zim)**                   |  The Vim-inspired text editor written in C++ |
 | **[Ai-Guitar-Midi-Amp-Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller)** | AI-powered guitar amplifier controller |
