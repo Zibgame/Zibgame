@@ -54,8 +54,9 @@ Here you’ll find all my 42 projects as well as my personal work.
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
 | **[win32-dll-injector](https://github.com/Zibgame/win32-dll-injector)** | Minimal Win32 project exploring process memory, DLL loading, and Windows internals.|
-| **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
+| **[Reverse-Shell-Windows](https://github.com/Zibgame/Reverse-Shell-Windows)** | TCP reverse shell implementation using the Windows Winsock API in C++ |
 | **[Zim](https://github.com/Zibgame/zim)**                   |  The Vim-inspired text editor written in C++ |
+| **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
 | **[Ai-Guitar-Midi-Amp-Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller)** | AI-powered guitar amplifier controller |
 | **[Norm-Ai-Fixer](https://github.com/Zibgame/norm-ai-fixer)** | Offline AI code normalizer. |
 | **[Asm Lib](https://github.com/Zibgame/asm-lib)**           | Small assembly practice library for low-level exercises. |
