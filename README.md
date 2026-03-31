@@ -45,7 +45,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | **[CUBE-3D](https://github.com/Pixyde/cub3d)**                | Raycaster Game like Wolfeinstein                      |
 | **[42-C++](https://github.com/Zibgame/42_cpp)**               | The base of C++ language                              |
 | **[NetPractice](https://github.com/Zibgame/NetPractice)**     | TCP/IP and subnetting basics.                         |
-| **[Transcendence](https://github.com/eyjvw/ft_transcendence)** | Full-stack multiplayer Gambling web app. |
+| **[Transcendence](https://github.com/Zibgame/ft_transcendence)** | Full-stack multiplayer Gambling web app. |
 
 
 ---
