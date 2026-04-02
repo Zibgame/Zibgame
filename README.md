@@ -55,6 +55,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | ----------------------------------------------------------- | -------------------------------------------------------- |
 | **[Win64-Dll-Injector](https://github.com/Zibgame/win32-dll-injector)** | Minimal Win64 project exploring process memory, DLL loading, and Windows internals.|
 | **[Reverse-Shell-Windows](https://github.com/Zibgame/Reverse-Shell-Windows)** | TCP reverse shell implementation using the Windows Winsock API in C++ |
+| **[PersistenceLib-Win64](https://github.com/Zibgame/PersistenceLib-Win64)** | A lightweight C++ library for managing Windows persistence through a clean, modular API. |
 | **[AntiDebugger-Win64](https://github.com/Zibgame/AntiDebugger-Win64)** | A lightweight C/C++ library for detecting debuggers on Windows |
 | **[Zim](https://github.com/Zibgame/zim)**                   |  The Vim-inspired text editor written in C++ |
 | **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
