@@ -56,6 +56,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | **[Win64-Dll-Injector](https://github.com/Zibgame/win32-dll-injector)** | Minimal Win64 project exploring process memory, DLL loading, and Windows internals.|
 | **[C2-Windows-x64](https://github.com/Zibgame/C2-Windows-x64)** | Multi-agent Command & Control (C2) framework using Winsock in C++ |
 | **[PersistenceLib-Win64](https://github.com/Zibgame/PersistenceLib-Win64)** | A lightweight C++ library for managing Windows persistence through a clean, modular API. |
+| **[PrivEscLib-Win64](https://github.com/Zibgame/PrivEscLib-Win64)** | A low-level C++ library for handling privilege escalation, process elevation for Windows |
 | **[AntiDebugger-Win64](https://github.com/Zibgame/AntiDebugger-Win64)** | A lightweight C/C++ library for detecting debuggers on Windows |
 | **[Zim](https://github.com/Zibgame/zim)**                   |  The Vim-inspired text editor written in C++ |
 | **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
