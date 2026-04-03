@@ -73,10 +73,10 @@ Here you’ll find all my 42 projects as well as my personal work.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zibgame&theme=2077"/>
 
 <p align="left">
-  Hack The Box Profile ↗<br/>
   <a href="https://app.hackthebox.com/profile/XXXX">
     <img src="https://www.hackthebox.com/images/logo-htb.svg" width="150"/>
   </a>
+    Hack The Box Profile ↗<br/>
 </p>
 
 <!--
