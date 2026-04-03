@@ -74,7 +74,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 <p align="left">
   <a href="https://app.hackthebox.com/profile/XXXX">
-    <img src="https://www.hackthebox.com/images/logo-htb.svg" width="1150"/>
+    <img src="https://www.hackthebox.com/images/logo-htb.svg" width="150"/>
   </a>
   <br/>
   Hack The Box — Active learner
