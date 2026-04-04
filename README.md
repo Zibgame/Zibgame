@@ -78,6 +78,7 @@ Here you’ll find all my 42 projects as well as my personal work.
   <a href="https://app.hackthebox.com/profile/XXXX">
     <img src="https://www.hackthebox.com/images/logo-htb.svg" width="150"/>
   </a>
+  7 machines Pawn <br/><br/>
 </p>
 
 <!--
