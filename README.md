@@ -81,9 +81,14 @@ Here you’ll find all my 42 projects as well as my personal work.
   <a href="https://profile.hackthebox.com/profile/019d539a-c442-70f1-b6c9-1231e7ac1b94">
     <img src="https://www.hackthebox.com/images/logo-htb.svg" width="120"/>
   </a>
+
+  <a href="https://app.intigriti.com/researcher/profile/zibgame">
+    <img src="https://raw.githubusercontent.com/Zibgame/img/main/icon/intigriti.png" width="120"/>
+  </a>
 </p>
 
 <br/>
+
 
 <!--
 ## 🌐 42 profile
