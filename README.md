@@ -77,8 +77,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 <h2 align="left">📊 Cybersecurity Stats</h2>
 
-<p align="left">
-  <b>Hack The Box</b><br/><br/>
+<p align="center">
   <a href="https://profile.hackthebox.com/profile/019d539a-c442-70f1-b6c9-1231e7ac1b94">
     <img src="https://www.hackthebox.com/images/logo-htb.svg" width="120"/>
   </a>
