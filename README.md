@@ -73,22 +73,21 @@ Here you’ll find all my 42 projects as well as my personal work.
 ---
 
 <h2>📊 GitHub Stats</h2>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zibgame&theme=2077"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zibgame&theme=2077"/>
 
 <h2 align="left">📊 Cybersecurity Stats</h2>
 
-<p align="center">
+<p align="left" style="display: flex; align-items: center;">
   <a href="https://profile.hackthebox.com/profile/019d539a-c442-70f1-b6c9-1231e7ac1b94">
-    <img src="https://www.hackthebox.com/images/logo-htb.svg" width="120"/>
+    <img src="https://www.hackthebox.com/images/logo-htb.svg" width="110" style="margin-right: 30px;"/>
   </a>
 
   <a href="https://app.intigriti.com/researcher/profile/zibgame">
-    <img src="https://raw.githubusercontent.com/Zibgame/img/main/icon/intigriti.png" width="120"/>
+    <img src="./img/icon/intigriti.png" width="60"/>
   </a>
 </p>
 
 <br/>
-
 
 <!--
 ## 🌐 42 profile
