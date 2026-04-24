@@ -15,15 +15,15 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="img/icon/c-original.svg" alt="C" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/windows-10.png" alt="Windows" width="40"/>
-  <img src="https://img.icons8.com/color/48/assembly.png" alt="Assembly" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/bash.png" alt="Bash" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+<p align="center">
+  <img src="img/icon/c-original.svg" width="40" height="40" style="display:inline-block; vertical-align: middle; margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="display:inline-block; vertical-align: middle; margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="display:inline-block; vertical-align: middle; margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40" height="40" style="display:inline-block; vertical-align: middle; margin-right: 8px;"/>
+  <img src="https://img.icons8.com/3d-fluency/94/windows-10.png" width="40" height="40" style="display:inline-block; vertical-align: middle; margin-right: 8px;"/>
+  <img src="https://img.icons8.com/color/48/assembly.png" width="40" height="40" style="display:inline-block; vertical-align: middle; margin-right: 8px;"/>
+  <img src="https://img.icons8.com/fluency/48/bash.png" width="40" height="40" style="display:inline-block; vertical-align: middle; margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="display:inline-block; vertical-align: middle;"/>
 </p>
 
 ---
@@ -46,6 +46,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | **[42-C++](https://github.com/Zibgame/42_cpp)**               | The base of C++ language                              |
 | **[NetPractice](https://github.com/Zibgame/NetPractice)**     | TCP/IP and subnetting basics.                         |
 | **[ft_Irc](https://github.com/tren-chvl/ft_irc)** | IRC server with sockets and client handling. |
+| **[Inception](https://github.com/Zibgame/Inception)** | Docker infrastructure, containerization, services orchestration. |
 | **[Transcendence](https://github.com/Zibgame/ft_transcendence)** | Full-stack multiplayer Gambling web app. |
 
 
@@ -76,7 +77,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 
 <p align="left">
   My Hack The Box Profile↓: <br/><br/>
-  <a href="https://app.hackthebox.com/profile/XXXX">
+  <a href="https://profile.hackthebox.com/profile/019d539a-c442-70f1-b6c9-1231e7ac1b94">
     <img src="https://www.hackthebox.com/images/logo-htb.svg" width="150"/>
   </a>
 </p>
@@ -89,7 +90,8 @@ Here you’ll find all my 42 projects as well as my personal work.
 </a>
 -->
 
-## 🎯 Objectif
-.𖥔 ݁ ˖🛸── Forge yourself daily; even stars are shaped by pressure and time. ✦
+## 🛠️ Currently
+
+*Working on Cisco cybersecurity certification and ethical hacking.*
 
 — Zibrian Cadinot —
