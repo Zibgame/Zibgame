@@ -97,6 +97,8 @@ Here you’ll find all my 42 projects as well as my personal work.
 </a>
 -->
 
+---
+
 ## 🛠️ Currently
 
 *Working on Cisco cybersecurity certification and ethical hacking.*
