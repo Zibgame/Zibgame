@@ -56,7 +56,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 ## <img src="gif/fuse.gif" width="30">  Others Projets
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
-| **[Mockify](https://github.com/Zibgame/Mockify)** | An automated, AI-driven Kindle case mockup generator featuring real-time quality control (QC) and self-correction loops via `gpt-4o` Vision..|
+| **[Mockify](https://github.com/Zibgame/Mockify)** | An automated, AI-driven mockup generator featuring real-time quality control (QC) and self-correction loops via `gpt-4o` Vision..|
 | **[Win64-Dll-Injector](https://github.com/Zibgame/win32-dll-injector)** | Minimal Win64 project exploring process memory, DLL loading, and Windows internals.|
 | **[C2-Windows-x64](https://github.com/Zibgame/C2-Windows-x64)** | Multi-agent Command & Control (C2) framework using Winsock in C++ |
 | **[PersistenceLib-Win64](https://github.com/Zibgame/PersistenceLib-Win64)** | A lightweight C++ library for managing Windows persistence through a clean, modular API. |
