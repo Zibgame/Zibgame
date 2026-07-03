@@ -57,7 +57,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | Project                                                     | Description                                              |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
 | **[Mockify](https://github.com/Zibgame/Mockify)** | An automated, AI-driven mockup generator featuring real-time quality control (QC) and self-correction loops via `gpt-4o` Vision..|
-| **[Stealth-Hypervisor-Win64](https://github.com/Zibgame/Stealth-Hypervisor-Win64)** | Type-1 UEFI hypervisor for Windows x64 with VMX support. |
+| **[Stealth-Hypervisor-Win64](https://github.com/Zibgame/Stealth-Hypervisor)** | Type-1 UEFI hypervisor for Windows x64 with VMX support. |
 | **[UDP-Flood-Win64](https://github.com/Zibgame/UDP-Flood-Win64)** | Educational UDP flood implementation for Windows x64, for cybersecurity and authorized network testing. |
 | **[Win64-Dll-Injector](https://github.com/Zibgame/win32-dll-injector)** | Minimal Win64 project exploring process memory, DLL loading, and Windows internals.|
 | **[C2-Windows-x64](https://github.com/Zibgame/C2-Windows-x64)** | Multi-agent Command & Control (C2) framework using Winsock in C++ |
