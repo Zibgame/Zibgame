@@ -65,6 +65,7 @@ Here you’ll find all my 42 projects as well as my personal work.
 | **[PrivEscLib-Win64](https://github.com/Zibgame/PrivEscLib-Win64)** | A low-level C++ library for handling privilege escalation, process elevation for Windows |
 | **[AntiDebugger-Win64](https://github.com/Zibgame/AntiDebugger-Win64)** | A lightweight C/C++ library for detecting debuggers on Windows |
 | **[Bug Bounty](https://github.com/Zibgame/intigriti-writeups)** | Bug bounty reports: real-world vulnerabilities (IDOR, API flaws, business logic) with detailed writeups and exploitation PoCs. |
+| **[TUI Debugger Win64](https://github.com/Zibgame/TUI-Debugger-Win64)** | Fully functional TUI debugger for Windows x64. |
 | **[Zim](https://github.com/Zibgame/zim)**                   |  The Vim-inspired text editor written in C++ |
 | **[Lite_Calculator_App](https://github.com/Zibgame/calculator-app)** | A lightweight WPF calculator showcasing clean UI design and basic arithmetic logic. |
 | **[Ai-Guitar-Midi-Amp-Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller)** | AI-powered guitar amplifier controller |
