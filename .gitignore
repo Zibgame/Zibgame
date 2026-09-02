@@ -1,0 +1,10 @@
+__pycache__/
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+assets/generated/section-links.svg
+assets/generated/section-featured.svg
+assets/generated/footer.svg
+assets/generated/security.svg
+assets/generated/link-*.svg

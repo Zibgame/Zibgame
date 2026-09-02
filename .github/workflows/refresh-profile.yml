@@ -1,0 +1,48 @@
+name: Refresh profile telemetry
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "assets/build.pyc"
+      - "assets/builder/**"
+      - "assets/source/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate self-hosted profile assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python assets/build.pyc
+
+      - name: Commit telemetry changes when needed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md PROFILE.md assets/generated
+          if git diff --cached --quiet; then
+            echo "Profile data is already current."
+          else
+            git commit -m "chore(profile): refresh telemetry [skip ci]"
+            git push
+          fi

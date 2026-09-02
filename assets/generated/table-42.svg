@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="47" viewBox="0 0 780 47" role="img">
+    <defs>
+      <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#0C1424"/><stop offset="1" stop-color="#070B14"/>
+      </linearGradient>
+      <linearGradient id="bluefade" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#377DFF" stop-opacity=".30"/>
+        <stop offset="1" stop-color="#58E6FF" stop-opacity="0"/>
+      </linearGradient>
+      <radialGradient id="halo" cx="78%" cy="28%" r="58%">
+        <stop offset="0" stop-color="#377DFF" stop-opacity=".20"/>
+        <stop offset="1" stop-color="#050811" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+        <path d="M26 0H0V26" fill="none" stroke="#183052" stroke-width=".7" opacity=".42"/>
+      </pattern>
+      <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+        <rect width="4" height="2" fill="#000" opacity=".22"/>
+      </pattern>
+      <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+        <feGaussianBlur stdDeviation="2.2" result="blur"/>
+        <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <clipPath id="heroPortrait"><path d="M548 47H746V283L718 311H520V75Z"/></clipPath>
+    </defs><style>
+text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.sans{font-family:Inter,'Segoe UI',Arial,sans-serif}
+.micro{font-size:9px;letter-spacing:1.55px}
+.muted{fill:#7D91A9}
+.label{fill:#58E6FF;font-size:10px;letter-spacing:1.7px}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+.blink{animation:blink 1.2s steps(1,end) infinite}
+.scan{animation:scan 7s linear infinite}
+.dash{animation:dash 5s linear infinite}
+@keyframes pulse{0%,100%{opacity:.42}50%{opacity:1}}
+@keyframes blink{0%,56%{opacity:1}57%,100%{opacity:.18}}
+@keyframes scan{from{transform:translateY(-30px)}to{transform:translateY(380px)}}
+@keyframes dash{to{stroke-dashoffset:-80}}
+</style>
+    <rect x="1" y="1" width="778" height="45" fill="#111824" stroke="#FF9F43" stroke-opacity=".55"/>
+    <rect x="1" y="1" width="5" height="45" fill="#FF9F43"/>
+    <path d="M265 1V46" stroke="#285A8D"/>
+    <text x="22" y="29" font-size="11" font-weight="700" letter-spacing="1.4" fill="#FF9F43">PROJECT</text>
+    <text x="285" y="29" font-size="11" font-weight="700" letter-spacing="1.4" fill="#7D91A9">DESCRIPTION</text>
+    <text x="758" y="29" text-anchor="end" font-size="9.5" letter-spacing="1" fill="#FF9F43">CLICK ROW TO OPEN ↗</text>
+    </svg>

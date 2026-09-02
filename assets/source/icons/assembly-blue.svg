@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="asmBlue" x1="18" y1="16" x2="110" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F8CFF"/>
+      <stop offset=".52" stop-color="#2557D6"/>
+      <stop offset="1" stop-color="#162B83"/>
+    </linearGradient>
+  </defs>
+  <path d="M35 9h58l29 55-29 55H35L6 64 35 9Z" fill="url(#asmBlue)" stroke="#8FC7FF" stroke-width="4"/>
+  <path d="M35 19h58l23.5 45L93 109H35L11.5 64 35 19Z" fill="none" stroke="#D7ECFF" stroke-opacity=".34" stroke-width="2"/>
+  <text x="64" y="77" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-1" fill="#FFFFFF">ASM</text>
+</svg>
