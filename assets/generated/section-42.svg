@@ -24,7 +24,7 @@
       <clipPath id="heroPortrait"><path d="M548 47H746V283L718 311H520V75Z"/></clipPath>
     </defs>
         <defs><filter id="labelLogoTint" color-interpolation-filters="sRGB">
-          <feFlood flood-color="#377DFF" result="tint"/>
+          <feFlood flood-color="#FF9F43" result="tint"/>
           <feComposite in="tint" in2="SourceAlpha" operator="in"/>
         </filter></defs><style>
 text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
@@ -42,12 +42,12 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
 @keyframes dash{to{stroke-dashoffset:-80}}
 </style>
     <rect width="780" height="82" fill="#050811"/>
-    <rect x="1" y="13" width="778" height="56" rx="4" fill="#0C1424" stroke="#1D3354"/>
-    <rect x="1" y="13" width="7" height="56" rx="3" fill="#377DFF"/>
-    <rect x="22" y="24" width="33" height="33" rx="4" fill="#070D18" stroke="#377DFF"/>
+    <rect x="1" y="13" width="778" height="56" rx="4" fill="#0C1424" stroke="#FF9F43" stroke-opacity=".48"/>
+    <rect x="1" y="13" width="7" height="56" rx="3" fill="#FF9F43"/>
+    <rect x="22" y="24" width="33" height="33" rx="4" fill="#070D18" stroke="#FF9F43"/>
     <image x="27" y="29" width="24" height="24" preserveAspectRatio="xMidYMid meet" filter="url(#labelLogoTint)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABHElEQVR4Ae3BrW0cQRgA0LerhS7gYzE4MEW4A1MDbxnH0kKkgOMhNjPYkwLNpg2zJFKACzCJNCAnTaTx+n4WxMf8ng9LOstWuNIUPKDgBheaZ4RXBqclZISqYERRfcUn1RaP+OaV3nEJGaEqGDHZt8Utijd6hyVkhKpgxGTfFrcoDhjsS8gIVcGIyb4Jn1Ec0ZlLyAhVwYjJskBG0qw7TUJGqApGTJYFMpJmjU2nSsgIVcGIybJARtKssbHTISEjVAUjJssCGUmzxsY/AzJC8xPXuHbcFzzhO5Jmi40mDQhzK6ycdo8nhLkXTULunUdCRvTeX0JG2BnQOe0SPxz229yAO/zBLzuD/3NlQe/MemfWWXaBG3OPePbhPfwF48w/a2HD3PIAAAAASUVORK5CYII="/>
-    <text x="70" y="37" class="sans" font-size="16" font-weight="750" fill="#DCE9F7">42 PROJECTS</text>
+    <text x="70" y="37" class="sans" font-size="16" font-weight="750" fill="#DCE9F7">03 // PROJECTS 42</text>
     <text x="70" y="56" class="micro muted">C · UNIX · NETWORKING · SYSTEM DESIGN</text>
-    <path class="dash" d="M604 41H744" stroke="#377DFF" stroke-dasharray="8 8" opacity=".55"/>
-    <circle class="pulse" cx="754" cy="41" r="4" fill="#377DFF" filter="url(#glow)"/>
+    <path class="dash" d="M604 41H744" stroke="#FF9F43" stroke-dasharray="8 8" opacity=".55"/>
+    <circle class="pulse" cx="754" cy="41" r="4" fill="#FF9F43" filter="url(#glow)"/>
     </svg>

@@ -38,12 +38,12 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
 @keyframes dash{to{stroke-dashoffset:-80}}
 </style>
     <rect width="780" height="82" fill="#050811"/>
-    <rect x="1" y="13" width="778" height="56" rx="4" fill="#0C1424" stroke="#1D3354"/>
-    <rect x="1" y="13" width="7" height="56" rx="3" fill="#58E6FF"/>
-    <rect x="22" y="24" width="33" height="33" rx="4" fill="#070D18" stroke="#58E6FF"/>
-    <text x="38.5" y="46" text-anchor="middle" class="sans" font-size="11" font-weight="800" fill="#58E6FF">ME</text>
-    <text x="70" y="37" class="sans" font-size="16" font-weight="750" fill="#DCE9F7">PERSONAL PROJECTS</text>
+    <rect x="1" y="13" width="778" height="56" rx="4" fill="#0C1424" stroke="#FF4FD8" stroke-opacity=".48"/>
+    <rect x="1" y="13" width="7" height="56" rx="3" fill="#FF4FD8"/>
+    <rect x="22" y="24" width="33" height="33" rx="4" fill="#070D18" stroke="#FF4FD8"/>
+    <text x="38.5" y="46" text-anchor="middle" class="sans" font-size="11" font-weight="800" fill="#FF4FD8">ME</text>
+    <text x="70" y="37" class="sans" font-size="16" font-weight="750" fill="#DCE9F7">04 // PERSONAL PROJECTS</text>
     <text x="70" y="56" class="micro muted">BUILT AT HOME · SECURITY RESEARCH · WINDOWS INTERNALS · TOOLS</text>
-    <path class="dash" d="M604 41H744" stroke="#58E6FF" stroke-dasharray="8 8" opacity=".55"/>
-    <circle class="pulse" cx="754" cy="41" r="4" fill="#58E6FF" filter="url(#glow)"/>
+    <path class="dash" d="M604 41H744" stroke="#FF4FD8" stroke-dasharray="8 8" opacity=".55"/>
+    <circle class="pulse" cx="754" cy="41" r="4" fill="#FF4FD8" filter="url(#glow)"/>
     </svg>
