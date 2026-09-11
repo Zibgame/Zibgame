@@ -56,7 +56,7 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
       <text x="28" y="298" class="micro muted">PUBLIC REPOS</text>
     
     
-      <text x="145" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">65</text>
+      <text x="145" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">64</text>
       <text x="145" y="298" class="micro muted">STARS</text>
     
     
