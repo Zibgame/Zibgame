@@ -52,11 +52,11 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
 
     <path d="M28 252H485" stroke="#1D3354"/>
     
-      <text x="28" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">51</text>
+      <text x="28" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">52</text>
       <text x="28" y="298" class="micro muted">PUBLIC REPOS</text>
     
     
-      <text x="145" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">65</text>
+      <text x="145" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">66</text>
       <text x="145" y="298" class="micro muted">STARS</text>
     
     
