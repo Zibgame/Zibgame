@@ -143,7 +143,7 @@ The following list preserves my deliberate priority order. These projects repres
 
 - Public repositories: 52
 - Total stars across owned public repositories: 66
-- Followers: 39
+- Followers: 40
 - Following: 45
 
 ## ⚡ Currently
