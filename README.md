@@ -142,9 +142,9 @@ The following list preserves my deliberate priority order. These projects repres
 ## 📊 GitHub Snapshot
 
 - Public repositories: 52
-- Total stars across owned public repositories: 62
-- Followers: 40
-- Following: 45
+- Total stars across owned public repositories: 60
+- Followers: 39
+- Following: 44
 
 ## ⚡ Currently
 
