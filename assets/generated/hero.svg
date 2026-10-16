@@ -64,7 +64,7 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
       <text x="230" y="298" class="micro muted">FOLLOWERS</text>
     
     
-      <text x="355" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">44</text>
+      <text x="355" y="280" class="sans" font-size="23" font-weight="700" fill="#DCE9F7">35</text>
       <text x="355" y="298" class="micro muted">FOLLOWING</text>
     
 
