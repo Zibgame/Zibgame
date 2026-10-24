@@ -5,7 +5,7 @@
 
 <img src="./assets/generated/hero.svg" alt="Zibrian Cadinot — cybersecurity engineering, low-level systems and software development" width="100%">
 
-<img src="./assets/generated/about.svg" alt="About Zibrian Cadinot — 42 Le Havre student focused on cybersecurity engineering and low-level systems" width="100%">
+<img src="./assets/generated/about-v2.svg" alt="About Zibrian Cadinot — offensive security developer and low-level systems builder at 42 Le Havre" width="100%">
 
 <img src="./assets/generated/toolchain-v4.svg" alt="Languages and tools — C, C++, x86-64 Assembly, Python, Windows, Linux, Docker, Vim, Bash and PowerShell" width="100%">
 

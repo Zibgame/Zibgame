@@ -179,13 +179,15 @@ def hero(stats: dict) -> str:
 
 
 def about() -> str:
-    body = frame(154, "FILE://ABOUT", "01 // ABOUT") + f"""
-    <rect x="22" y="47" width="736" height="78" rx="4" fill="#050A13" stroke="{COLORS['line']}"/>
-    <text x="39" y="70" class="sans" font-size="13.5" font-weight="700" fill="{COLORS['text']}">42 Le Havre student focused on cybersecurity engineering and low-level systems.</text>
-    <text x="39" y="94" class="sans" font-size="11.3" fill="{COLORS['muted']}">C, C++, Python and x86-64 Assembly across Windows internals, virtualization,</text>
-    <text x="39" y="112" class="sans" font-size="11.3" fill="{COLORS['muted']}">debugging, networking and developer tooling.</text>
-    <circle class="pulse" cx="737" cy="64" r="3" fill="{COLORS['green']}"/>
-    <text x="22" y="143" class="micro muted">AUTHORIZED RESEARCH // EDUCATIONAL LABS // RESPONSIBLE DISCLOSURE</text>
+    body = frame(154, "PROFILE://IDENTITY", "01 // ABOUT") + f"""
+    <rect x="22" y="45" width="736" height="84" rx="4" fill="#050A13" stroke="{COLORS['line']}"/>
+    <rect x="22" y="45" width="3" height="84" rx="1.5" fill="{COLORS['cyan']}"/>
+    <text x="40" y="66" class="micro" fill="{COLORS['cyan']}">OFFENSIVE SECURITY // LOW-LEVEL SYSTEMS</text>
+    <text x="40" y="91" class="sans" font-size="15" font-weight="750" fill="{COLORS['text']}">I build to understand what happens below the abstraction layer.</text>
+    <text x="40" y="112" class="sans" font-size="10.8" fill="{COLORS['muted']}">Packers, hypervisors and native Windows security tooling built from first principles.</text>
+    <text x="735" y="66" text-anchor="end" class="micro" fill="{COLORS['blue']}">42 LE HAVRE</text>
+    <circle class="pulse" cx="742" cy="109" r="3" fill="{COLORS['green']}"/>
+    <text x="22" y="145" class="micro muted">REVERSE ENGINEERING // WINDOWS INTERNALS // BUG BOUNTY // AUTHORIZED RESEARCH</text>
     """
     return document(WIDTH, 154, body.rstrip())
 
@@ -325,7 +327,7 @@ def write(path: Path, content: str) -> None:
 
 def render_all(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> None:
     write(GENERATED / "hero.svg", hero(stats))
-    write(GENERATED / "about.svg", about())
+    write(GENERATED / "about-v2.svg", about())
     write(GENERATED / "toolchain-v4.svg", capabilities())
     write(GENERATED / "projects-42-header.svg", project_header(
         "42 PROJECTS", "03", "CURRICULUM://CORE",
