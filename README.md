@@ -45,19 +45,19 @@
 | [Obsidian Packer](https://github.com/Zibgame/Obsidian-Packer) | PE32+ · C++ | An x86-64 PE packer and in-memory loader implementing image reconstruction, relocations, import resolution, TLS and memory protections. |
 | [Stealth Hypervisor Win64](https://github.com/Zibgame/Stealth-Hypervisor) | UEFI · Virtualization | Type-1 hypervisor research for Windows x64, focused on VM introspection and low-level execution control. |
 | [PrivEscLib Win64](https://github.com/Zibgame/PrivEscLib-Win64) | Windows security | A reusable C++ library that studies Windows privilege-elevation mechanisms in controlled environments. |
-| [TUI Debugger Win64](https://github.com/Zibgame/TUI-Debugger-Win64) | Debugging · Win64 | A terminal debugger exposing registers, assembly, breakpoints and process state in a compact interface. |
 | [AntiDebugger Win64](https://github.com/Zibgame/AntiDebugger-Win64) | Reverse engineering | A collection of debugger and execution-anomaly checks for low-level security research. |
 | [Bug bounty writeups](https://github.com/Zibgame/intigriti-writeups) | Web · API security | Authorized findings and technical writeups covering IDOR, API behavior and business-logic issues. |
+| [PersistenceLib Win64](https://github.com/Zibgame/PersistenceLib-Win64) | Windows security | Modular persistence setup, detection and removal research. |
 
 <details>
 <summary><strong>Show 13 additional personal projects</strong></summary>
 
 | Project | Area | Summary |
 |---|---|---|
-| [PersistenceLib Win64](https://github.com/Zibgame/PersistenceLib-Win64) | Windows security | Modular persistence setup, detection and removal research. |
 | [Win64 DLL Injector](https://github.com/Zibgame/win32-dll-injector) | Windows internals | Process-memory and DLL-loading research on Windows x64. |
 | [C2 Windows x64](https://github.com/Zibgame/C2-Windows-x64) | Network security | A Winsock command-channel lab built for protocol and detection research. |
 | [ASM Lib](https://github.com/Zibgame/asm-lib) | x86-64 Assembly | A low-level assembly library and collection of systems exercises. |
+| [TUI Debugger Win64](https://github.com/Zibgame/TUI-Debugger-Win64) | Debugging · Win64 | An in-development terminal debugger for registers, assembly, breakpoints and process state. |
 | [UDP Flood Win64](https://github.com/Zibgame/UDP-Flood-Win64) | Network lab | Educational traffic-stress implementation for isolated and authorized environments. |
 | [Mockify](https://github.com/Zibgame/Mockify) | Python · Automation | An AI-assisted mockup pipeline with automated visual inspection and iterative quality control. |
 | [Norm AI Fixer](https://github.com/Zibgame/norm-ai-fixer) | Python · Local AI | An offline code-normalization assistant with configurable rules. |
