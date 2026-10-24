@@ -49,6 +49,7 @@ The following list preserves my deliberate priority order. These projects repres
 |---|---|
 | [Obsidian-Packer](https://github.com/Zibgame/Obsidian-Packer) | **Offensive / Cyber** · PE32+ / C++ — x86-64 PE packer and in-memory loader with image reconstruction, relocations, imports, TLS and memory protections. |
 | [Stealth-Hypervisor-Win64](https://github.com/Zibgame/Stealth-Hypervisor) | **Low-Level / Systems** · UEFI / VIRTUALIZATION — Type-1 Win64 research hypervisor with VM introspection. |
+| [ft_shield](https://github.com/Zibgame/ft_shield) | **Offensive / Cyber** · C / NATIVE WIN32 — Native Win32 remote-administration study with an authenticated multi-client shell, persistence and anti-analysis checks. |
 | [PrivEscLib-Win64](https://github.com/Zibgame/PrivEscLib-Win64) | **Offensive / Cyber** · WINDOWS SECURITY — Privilege-elevation mechanisms studied in controlled environments. |
 | [AntiDebugger-Win64](https://github.com/Zibgame/AntiDebugger-Win64) | **Offensive / Cyber** · REVERSE ENGINEERING — Debugger and anomaly detection for low-level security research. |
 | [Bug Bounty](https://github.com/Zibgame/intigriti-writeups) | **Offensive / Cyber** · WEB / API SECURITY — Authorized findings and writeups: IDOR, APIs and business logic. |

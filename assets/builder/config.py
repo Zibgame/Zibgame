@@ -77,6 +77,7 @@ PERSONAL_THEMES = [
 
 PERSONAL_PROJECT_THEME = {
     "Obsidian-Packer": "CYBER",
+    "ft_shield": "CYBER",
     "UDP-Flood-Win64": "CYBER",
     "Win64-Dll-Injector": "CYBER",
     "C2-Windows-x64": "CYBER",
@@ -101,6 +102,7 @@ PERSONAL_PROJECT_THEME = {
 OTHER_PROJECTS = [
     ("Obsidian-Packer", "https://github.com/Zibgame/Obsidian-Packer", "PE32+ / C++", "x86-64 PE packer and in-memory loader with image reconstruction, relocations, imports, TLS and memory protections."),
     ("Stealth-Hypervisor-Win64", "https://github.com/Zibgame/Stealth-Hypervisor", "UEFI / VIRTUALIZATION", "Type-1 Win64 research hypervisor with VM introspection."),
+    ("ft_shield", "https://github.com/Zibgame/ft_shield", "C / NATIVE WIN32", "Native Win32 remote-administration study with an authenticated multi-client shell, persistence and anti-analysis checks."),
     ("PrivEscLib-Win64", "https://github.com/Zibgame/PrivEscLib-Win64", "WINDOWS SECURITY", "Privilege-elevation mechanisms studied in controlled environments."),
     ("AntiDebugger-Win64", "https://github.com/Zibgame/AntiDebugger-Win64", "REVERSE ENGINEERING", "Debugger and anomaly detection for low-level security research."),
     ("Bug Bounty", "https://github.com/Zibgame/intigriti-writeups", "WEB / API SECURITY", "Authorized findings and writeups: IDOR, APIs and business logic."),
@@ -122,9 +124,9 @@ OTHER_PROJECTS = [
 
 FEATURED_NAMES = {
     "Obsidian-Packer",
+    "ft_shield",
     "Stealth-Hypervisor-Win64",
     "PrivEscLib-Win64",
-    "PersistenceLib-Win64",
     "Bug Bounty",
     "AntiDebugger-Win64",
 }
