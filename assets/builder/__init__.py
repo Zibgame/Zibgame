@@ -1,0 +1,1 @@
+"""Zibgame profile SVG generator."""
