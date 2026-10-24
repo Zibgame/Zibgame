@@ -12,21 +12,11 @@
   <a href="https://app.intigriti.com/researcher/profile/zibgame">Intigriti</a>
 </p>
 
-## About
+<img src="./assets/generated/about.svg" alt="About Zibrian Cadinot — 42 Le Havre student focused on cybersecurity engineering and low-level systems" width="100%">
 
-I am a student at **42 Le Havre** focused on cybersecurity engineering and low-level systems. I build software in C, C++, Python and x86-64 Assembly, with a particular interest in Windows internals, virtualization, debugging, networking and developer tooling.
+<img src="./assets/generated/capabilities.svg" alt="Languages and tools — C, C++, Python, Vim, Windows, x86-64 Assembly, Bash, Linux, Docker and PowerShell" width="100%">
 
-My projects are built to understand systems from the inside: how processes behave, how operating systems enforce boundaries, how tooling can expose internal state, and how security mechanisms can be studied in controlled environments.
-
-Security-related work is intended for authorized research, educational labs, defensive understanding and responsible disclosure.
-
-## Languages and tools
-
-<img src="./assets/generated/capabilities.svg" alt="Core languages, platforms, workflow and technical focus" width="100%">
-
-## 42 projects
-
-The 42 curriculum gave me a practical foundation in systems programming, concurrency, networking, graphics and software architecture. These are the most representative projects from the later part of the curriculum.
+<img src="./assets/generated/section-42.svg" alt="42 projects — systems programming, concurrency, networking, graphics and software architecture" width="100%">
 
 | Project | Area | What I built |
 |---|---|---|
@@ -55,9 +45,7 @@ The 42 curriculum gave me a practical foundation in systems programming, concurr
 
 </details>
 
-## Personal projects
-
-Outside the curriculum, I build security research tools, low-level systems and developer software. The projects below best represent the direction of my current work.
+<img src="./assets/generated/section-personal.svg" alt="Personal projects — security research, low-level systems and developer software" width="100%">
 
 | Project | Focus | What it demonstrates |
 |---|---|---|

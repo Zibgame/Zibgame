@@ -11,7 +11,9 @@ python assets/build.py
 The generator updates:
 
 - `hero.svg` — identity, portrait and public GitHub totals;
-- `capabilities.svg` — compact technical stack overview;
+- `about.svg` — compact profile introduction and research scope;
+- `capabilities.svg` — visual language and toolchain strip using the repository icons;
+- `section-42.svg` and `section-personal.svg` — project-section introductions;
 - `currently.svg` — current learning focus;
 - `telemetry.svg` — repository, language and contribution data;
 - `contact-*.svg` — neutral contact cards;
@@ -19,4 +21,4 @@ The generator updates:
 
 Public GitHub data is fetched at build time. Stable fallback values keep the profile renderable when the unauthenticated API is unavailable or rate-limited. The scheduled GitHub Actions workflow performs the same build and commits only when generated output changes.
 
-Project descriptions remain directly in `README.md` so they are selectable, searchable, accessible and easy to review without reading text embedded in images.
+Project tables and descriptions remain directly in `README.md` so they are selectable, searchable, accessible and easy to review without reading text embedded in images.

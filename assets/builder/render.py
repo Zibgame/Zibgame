@@ -116,6 +116,25 @@ def _portrait_data() -> str:
     return base64.b64encode(PORTRAIT.read_bytes()).decode("ascii")
 
 
+def data_uri(path: Path) -> str:
+    mime = {
+        ".svg": "image/svg+xml",
+        ".png": "image/png",
+        ".jpg": "image/jpeg",
+        ".jpeg": "image/jpeg",
+    }[path.suffix.lower()]
+    payload = base64.b64encode(path.read_bytes()).decode("ascii")
+    return f"data:{mime};base64,{payload}"
+
+
+def svg_with_replacements_uri(path: Path, replacements: dict[str, str]) -> str:
+    source = path.read_text(encoding="utf-8")
+    for old, new in replacements.items():
+        source = source.replace(old, new)
+    payload = base64.b64encode(source.encode("utf-8")).decode("ascii")
+    return f"data:image/svg+xml;base64,{payload}"
+
+
 def _stat(x: int, value, label: str) -> str:
     return f"""
       <text x="{x}" y="280" class="sans" font-size="23" font-weight="700" fill="{COLORS['text']}">{value}</text>
@@ -159,21 +178,67 @@ def hero(stats: dict) -> str:
     return document(WIDTH, 330, body)
 
 
+def about() -> str:
+    body = frame(154, "FILE://ABOUT", "01 // ABOUT") + f"""
+    <rect x="22" y="47" width="736" height="78" rx="4" fill="#050A13" stroke="{COLORS['line']}"/>
+    <text x="39" y="70" class="sans" font-size="13.5" font-weight="700" fill="{COLORS['text']}">42 Le Havre student focused on cybersecurity engineering and low-level systems.</text>
+    <text x="39" y="94" class="sans" font-size="11.3" fill="{COLORS['muted']}">C, C++, Python and x86-64 Assembly across Windows internals, virtualization,</text>
+    <text x="39" y="112" class="sans" font-size="11.3" fill="{COLORS['muted']}">debugging, networking and developer tooling.</text>
+    <circle class="pulse" cx="737" cy="64" r="3" fill="{COLORS['green']}"/>
+    <text x="22" y="143" class="micro muted">AUTHORIZED RESEARCH // EDUCATIONAL LABS // RESPONSIBLE DISCLOSURE</text>
+    """
+    return document(WIDTH, 154, body)
+
+
 def capabilities() -> str:
-    body = frame(164, "STACK://CORE", "02 // LANGUAGES & TOOLS")
-    positions = [(22, 48), (397, 48), (22, 101), (397, 101)]
-    accents = [COLORS["cyan"], COLORS["blue"], COLORS["blue"], COLORS["cyan"]]
-    for index, ((label, value), (x, y), accent) in enumerate(
-        zip(config.TOOL_GROUPS, positions, accents)
+    body = frame(142, "BIN://TOOLCHAIN", "02 // LANGUAGES & TOOLS")
+    palette = [
+        COLORS["cyan"], COLORS["blue"], COLORS["amber"], COLORS["green"],
+        COLORS["blue"], COLORS["orange"], COLORS["green"], COLORS["text"],
+        COLORS["cyan"], COLORS["purple"],
+    ]
+    icon_files = [
+        "c.svg", "cplusplus.svg", "python.svg", "vim.svg", "windows-original.png",
+        "assembly-blue.svg", "bash.svg", "linux.svg", "docker-original.png", "powershell.svg",
+    ]
+    x_positions = [22 + index * 73.6 for index in range(10)]
+    for index, (tool, color, icon_file, x) in enumerate(
+        zip(config.TOOLS, palette, icon_files, x_positions)
     ):
-        body += (
-            f'<rect x="{x}" y="{y}" width="361" height="41" rx="3" fill="#070D18" stroke="{COLORS["line"]}"/>\n'
-            f'<rect x="{x}" y="{y}" width="3" height="41" rx="1.5" fill="{accent}" opacity=".85"/>\n'
-            f'<text x="{x + 16}" y="{y + 17}" class="micro" fill="{accent}">{escape(label)}</text>\n'
-            f'<text x="{x + 16}" y="{y + 33}" class="sans" font-size="10.5" fill="{COLORS["text"]}">{escape(value)}</text>\n'
-            f'<circle class="pulse" style="animation-delay:{index * 0.25:.2f}s" cx="{x + 344}" cy="{y + 13}" r="2.5" fill="{accent}"/>\n'
+        icon = (
+            svg_with_replacements_uri(ICONS / icon_file, {"#293138": "#EAF0F7"})
+            if icon_file == "bash.svg"
+            else data_uri(ICONS / icon_file)
         )
-    return document(WIDTH, 164, body)
+        body += f'<rect x="{x:.1f}" y="48" width="60" height="78" rx="5" fill="#070D18" stroke="{color}" stroke-opacity=".72"/>'
+        body += f'<image x="{x + 12:.1f}" y="57" width="36" height="36" preserveAspectRatio="xMidYMid meet" href="{icon}"/>'
+        body += f'<circle class="pulse" style="animation-delay:{index * 0.17:.2f}s" cx="{x + 52:.1f}" cy="56" r="2.5" fill="{color}"/>'
+        body += f'<text x="{x + 30:.1f}" y="113" text-anchor="middle" class="sans" font-size="8.5" font-weight="650" fill="{COLORS["text"]}">{escape(tool)}</text>'
+    return document(WIDTH, 142, body)
+
+
+def project_intro(
+    number: str,
+    title: str,
+    code: str,
+    accent: str,
+    first_line: str,
+    second_line: str,
+    icon: str,
+) -> str:
+    body = background(112) + f"""
+    <rect x="1" y="1" width="778" height="110" rx="4" fill="url(#panel)" stroke="{COLORS['line']}"/>
+    <rect x="1" y="1" width="5" height="110" rx="2" fill="{accent}"/>
+    <rect x="22" y="17" width="34" height="34" rx="4" fill="#070D18" stroke="{accent}"/>
+    <text x="39" y="39" text-anchor="middle" class="sans" font-size="10" font-weight="800" fill="{accent}">{escape(icon)}</text>
+    <text x="70" y="31" class="sans" font-size="16" font-weight="750" fill="{COLORS['text']}">{escape(number)} // {escape(title)}</text>
+    <text x="758" y="29" text-anchor="end" class="micro" fill="{accent}">{escape(code)}</text>
+    <path d="M70 45H758" stroke="{COLORS['line']}"/>
+    <text x="22" y="77" class="sans" font-size="11.2" fill="{COLORS['muted']}">{escape(first_line)}</text>
+    <text x="22" y="96" class="sans" font-size="11.2" fill="{COLORS['muted']}">{escape(second_line)}</text>
+    <circle class="pulse" cx="758" cy="91" r="3" fill="{accent}"/>
+    """
+    return document(WIDTH, 112, body)
 
 
 def telemetry(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> str:
@@ -274,7 +339,20 @@ def write(path: Path, content: str) -> None:
 
 def render_all(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> None:
     write(GENERATED / "hero.svg", hero(stats))
+    write(GENERATED / "about.svg", about())
     write(GENERATED / "capabilities.svg", capabilities())
+    write(GENERATED / "section-42.svg", project_intro(
+        "03", "42 PROJECTS", "CURRICULUM://CORE", COLORS["orange"],
+        "A practical foundation in systems programming, concurrency, networking, graphics",
+        "and software architecture. Selected work is listed below as readable project notes.",
+        "42",
+    ))
+    write(GENERATED / "section-personal.svg", project_intro(
+        "04", "PERSONAL PROJECTS", "WORK://SELECTED", COLORS["cyan"],
+        "Security research, low-level systems and developer software built outside the curriculum.",
+        "Selected work reflects my current direction across Windows internals and tooling.",
+        "PX",
+    ))
     write(GENERATED / "currently.svg", currently())
     write(GENERATED / "telemetry.svg", telemetry(stats, languages, calendar))
 
