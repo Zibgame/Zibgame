@@ -187,7 +187,7 @@ def about() -> str:
     <circle class="pulse" cx="737" cy="64" r="3" fill="{COLORS['green']}"/>
     <text x="22" y="143" class="micro muted">AUTHORIZED RESEARCH // EDUCATIONAL LABS // RESPONSIBLE DISCLOSURE</text>
     """
-    return document(WIDTH, 154, body)
+    return document(WIDTH, 154, body.rstrip())
 
 
 def capabilities() -> str:
@@ -238,7 +238,7 @@ def project_intro(
     <text x="22" y="96" class="sans" font-size="11.2" fill="{COLORS['muted']}">{escape(second_line)}</text>
     <circle class="pulse" cx="758" cy="91" r="3" fill="{accent}"/>
     """
-    return document(WIDTH, 112, body)
+    return document(WIDTH, 112, body.rstrip())
 
 
 def telemetry(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> str:

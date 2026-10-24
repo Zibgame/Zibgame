@@ -46,5 +46,4 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
     <path d="M70 45H758" stroke="#1D3354"/>
     <text x="22" y="77" class="sans" font-size="11.2" fill="#7D91A9">A practical foundation in systems programming, concurrency, networking, graphics</text>
     <text x="22" y="96" class="sans" font-size="11.2" fill="#7D91A9">and software architecture. Selected work is listed below as readable project notes.</text>
-    <circle class="pulse" cx="758" cy="91" r="3" fill="#FF9F43"/>
-    </svg>
+    <circle class="pulse" cx="758" cy="91" r="3" fill="#FF9F43"/></svg>

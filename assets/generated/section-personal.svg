@@ -46,5 +46,4 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
     <path d="M70 45H758" stroke="#1D3354"/>
     <text x="22" y="77" class="sans" font-size="11.2" fill="#7D91A9">Security research, low-level systems and developer software built outside the curriculum.</text>
     <text x="22" y="96" class="sans" font-size="11.2" fill="#7D91A9">Selected work reflects my current direction across Windows internals and tooling.</text>
-    <circle class="pulse" cx="758" cy="91" r="3" fill="#58E6FF"/>
-    </svg>
+    <circle class="pulse" cx="758" cy="91" r="3" fill="#58E6FF"/></svg>

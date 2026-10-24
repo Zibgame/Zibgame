@@ -49,5 +49,4 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
     <text x="39" y="94" class="sans" font-size="11.3" fill="#7D91A9">C, C++, Python and x86-64 Assembly across Windows internals, virtualization,</text>
     <text x="39" y="112" class="sans" font-size="11.3" fill="#7D91A9">debugging, networking and developer tooling.</text>
     <circle class="pulse" cx="737" cy="64" r="3" fill="#58E6A9"/>
-    <text x="22" y="143" class="micro muted">AUTHORIZED RESEARCH // EDUCATIONAL LABS // RESPONSIBLE DISCLOSURE</text>
-    </svg>
+    <text x="22" y="143" class="micro muted">AUTHORIZED RESEARCH // EDUCATIONAL LABS // RESPONSIBLE DISCLOSURE</text></svg>
