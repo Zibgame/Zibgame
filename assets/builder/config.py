@@ -127,6 +127,7 @@ FEATURED_NAMES = {
     "ft_shield",
     "Stealth-Hypervisor-Win64",
     "PrivEscLib-Win64",
+    "PersistenceLib-Win64",
     "Bug Bounty",
     "AntiDebugger-Win64",
 }

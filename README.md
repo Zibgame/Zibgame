@@ -19,9 +19,10 @@
 | [ft_irc](https://github.com/tren-chvl/ft_irc) | C++ · Networking | An IRC server implementing socket management, channels, commands and multiple concurrent clients. |
 | [Inception](https://github.com/Zibgame/Inception) | Docker · DevOps | A containerized service stack with isolated networks, persistent storage and reproducible configuration. |
 | [Transcendence](https://github.com/Zibgame/ft_transcendence) | Full stack | A multiplayer web application combining a modern frontend, backend services and real-time interactions. |
+| [42 C++ modules](https://github.com/Zibgame/42_cpp) | C++ · OOP | Progressive exercises covering object design, inheritance, polymorphism, templates and STL. |
 
 <details>
-<summary><strong>Show 10 additional 42 projects</strong></summary>
+<summary><strong>Show 9 additional 42 projects</strong></summary>
 
 | Project | Area | Summary |
 |---|---|---|
@@ -33,7 +34,6 @@
 | [Minitalk](https://github.com/Zibgame/minitalk) | C · IPC | Client-server communication implemented with UNIX signals. |
 | [So Long](https://github.com/Zibgame/so_long) | C · Graphics | A small 2D game built with MiniLibX, map validation and event handling. |
 | [Push Swap](https://github.com/Zibgame/push_swap) | C · Algorithms | A constrained-stack sorting program optimized around a limited instruction set. |
-| [42 C++ modules](https://github.com/Zibgame/42_cpp) | C++ · OOP | Progressive exercises covering object design, inheritance, polymorphism, templates and STL. |
 | [NetPractice](https://github.com/Zibgame/NetPractice) | Networking | Practical work on IPv4 addressing, subnetting, routing and network diagnosis. |
 
 </details>
@@ -48,13 +48,13 @@
 | [PrivEscLib Win64](https://github.com/Zibgame/PrivEscLib-Win64) | Windows security | A reusable C++ library that studies Windows privilege-elevation mechanisms in controlled environments. |
 | [AntiDebugger Win64](https://github.com/Zibgame/AntiDebugger-Win64) | Reverse engineering | A collection of debugger and execution-anomaly checks for low-level security research. |
 | [Bug bounty writeups](https://github.com/Zibgame/intigriti-writeups) | Web · API security | Authorized findings and technical writeups covering IDOR, API behavior and business-logic issues. |
+| [PersistenceLib Win64](https://github.com/Zibgame/PersistenceLib-Win64) | Windows security | Modular persistence setup, detection and removal research. |
 
 <details>
-<summary><strong>Show 14 additional personal projects</strong></summary>
+<summary><strong>Show 13 additional personal projects</strong></summary>
 
 | Project | Area | Summary |
 |---|---|---|
-| [PersistenceLib Win64](https://github.com/Zibgame/PersistenceLib-Win64) | Windows security | Modular persistence setup, detection and removal research. |
 | [Win64 DLL Injector](https://github.com/Zibgame/win32-dll-injector) | Windows internals | Process-memory and DLL-loading research on Windows x64. |
 | [C2 Windows x64](https://github.com/Zibgame/C2-Windows-x64) | Network security | A Winsock command-channel lab built for protocol and detection research. |
 | [ASM Lib](https://github.com/Zibgame/asm-lib) | x86-64 Assembly | A low-level assembly library and collection of systems exercises. |
