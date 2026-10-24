@@ -3,13 +3,13 @@
   Rebuild self-hosted SVG assets with: python assets/build.py
 -->
 
-<img src="./assets/generated/hero.svg" alt="Zibrian Cadinot — cybersecurity engineering, low-level systems and software development" width="100%">
+<a id="profile-overview" href="#profile-overview" aria-label="Profile overview"><img src="./assets/generated/hero.svg" alt="Zibrian Cadinot — cybersecurity engineering, low-level systems and software development" width="100%"></a>
 
-<img src="./assets/generated/about-v2.svg" alt="About Zibrian Cadinot — offensive security developer and low-level systems builder at 42 Le Havre" width="100%">
+<a id="about-profile" href="#about-profile" aria-label="About profile"><img src="./assets/generated/about-v2.svg" alt="About Zibrian Cadinot — offensive security developer and low-level systems builder at 42 Le Havre" width="100%"></a>
 
-<img src="./assets/generated/toolchain-v5.svg" alt="Animated languages and tools — C, C++, x86-64 Assembly, Python, Windows, Linux, Docker, Vim, Bash and PowerShell" width="100%">
+<a id="languages-and-tools" href="#languages-and-tools" aria-label="Languages and tools"><img src="./assets/generated/toolchain-v5.svg" alt="Animated languages and tools — C, C++, x86-64 Assembly, Python, Windows, Linux, Docker, Vim, Bash and PowerShell" width="100%"></a>
 
-<img src="./assets/generated/projects-42-header.svg" alt="42 projects" width="100%">
+<a id="projects-42" href="#projects-42" aria-label="42 projects"><img src="./assets/generated/projects-42-header.svg" alt="42 projects" width="100%"></a>
 
 | Project | Area | What I built |
 |---|---|---|
@@ -38,7 +38,7 @@
 
 </details>
 
-<img src="./assets/generated/personal-projects-header.svg" alt="Personal projects" width="100%">
+<a id="personal-projects" href="#personal-projects" aria-label="Personal projects"><img src="./assets/generated/personal-projects-header.svg" alt="Personal projects" width="100%"></a>
 
 | Project | Focus | What it demonstrates |
 |---|---|---|
@@ -73,11 +73,11 @@
 
 ## Current focus
 
-<img src="./assets/generated/currently.svg" alt="Current learning and engineering focus" width="100%">
+<a id="current-focus-card" href="#current-focus-card" aria-label="Current focus"><img src="./assets/generated/currently.svg" alt="Current learning and engineering focus" width="100%"></a>
 
 ## GitHub activity
 
-<img src="./assets/generated/telemetry.svg" alt="GitHub repositories, stars, languages and contribution activity" width="100%">
+<a id="github-activity-card" href="#github-activity-card" aria-label="GitHub activity"><img src="./assets/generated/telemetry.svg" alt="GitHub repositories, stars, languages and contribution activity" width="100%"></a>
 
 ## Contact
 
