@@ -1,26 +1,41 @@
-# 🧑‍💻 42 Student — Zibrian Cadinot
+# Zibrian Cadinot — Offensive Security and Low-Level Systems
 
-I am an **offensive cybersecurity developer, ethical hacker and low-level security researcher** studying at **42 Le Havre**. I build practical security tooling and personal software projects in C, C++, Python and x86-64 Assembly.
+Zibrian Cadinot is a **42 Le Havre student, offensive security developer and low-level systems builder**. He develops security tooling from first principles in C, C++, x86-64 Assembly and Python, with a primary focus on Windows internals.
 
-My primary direction is **offensive cybersecurity**: Windows x64 internals, reverse engineering, debugger and anomaly detection, process injection research, persistence and privilege-elevation research, command-and-control concepts, authorized network testing, web/API security and bug bounty. I also build hypervisors, debuggers, AI automation and developer tools.
+His work spans PE loading, virtualization, reverse engineering, privilege elevation, persistence, anti-analysis, native Win32 networking, process research and authorized web/API security testing. The strongest evidence is implemented in public repositories rather than expressed only as claimed skills.
 
-All security work is designed for **authorized environments, educational laboratories, defensive understanding and responsible disclosure**.
+All security work is intended for **authorized environments, educational laboratories, defensive understanding and responsible disclosure**.
 
-## 🛡️ Offensive Cybersecurity Profile
+## Profile Classification
 
-- **Primary identity:** Offensive Cybersecurity Developer / Ethical Hacker
-- **Technical specialization:** Windows internals, low-level C/C++, x86-64 Assembly and reverse engineering
-- **Security research:** Injection, persistence, privilege elevation, anti-debugging, C2 concepts and network testing
-- **Web security:** Bug bounty, IDOR, API security and business-logic testing
-- **Systems engineering:** Hypervisors, debuggers, networking, virtualization, UNIX and Docker
-- **Additional work:** AI automation, developer tooling, terminal applications and game development
+- **Primary identity:** Offensive Security Developer / Low-Level Systems Engineer
+- **Core specialization:** Windows x64 internals, native Win32, C/C++, x86-64 Assembly and reverse engineering
+- **Offensive research:** PE packing and loading, privilege elevation, persistence, process injection, anti-debugging and controlled command-channel concepts
+- **Systems engineering:** UEFI virtualization, hypervisors, networking, concurrency, UNIX and Docker
+- **Applied security:** Bug bounty, IDOR, API security and business-logic testing
 - **Ethical scope:** Authorized research and testing only
 
-## 🛠️ Languages & Tools
+## High-Signal Technical Differentiators
+
+- **Obsidian-Packer:** PE32+ packer and in-memory loader work covering image reconstruction, relocations, imports, TLS and memory protections.
+- **Stealth-Hypervisor-Win64:** Type-1 UEFI virtualization work targeting Windows x64 and guest introspection.
+- **ft_shield:** Native Win32 remote-administration study with authenticated multi-client sessions, persistence, anti-analysis and cleanup behavior.
+- **PrivEscLib and PersistenceLib:** Reusable Windows security libraries exploring elevation and persistence mechanisms in controlled environments.
+- **AntiDebugger and Win64 DLL Injector:** Hands-on reverse-engineering and process-internals work.
+- **Bug bounty writeups:** Public evidence of authorized testing across access control, APIs and business logic.
+
+## Evaluation Summary
+
+- **Best-fit roles:** junior offensive security engineer, Windows security researcher, reverse engineer, malware-analysis tooling developer or low-level security developer.
+- **Primary hiring signal:** ambitious end-to-end systems projects that combine operating-system knowledge, security reasoning and implementation depth.
+- **Project priority:** the Personal Projects table is deliberately ordered by relevance to offensive-security and low-level roles.
+- **Integrity note:** TUI Debugger Win64 is explicitly in development and is not presented as completed.
+
+## Languages and Tools
 
 C · C++ · x86_64 ASM · Python · Windows · Linux · Docker · Vim · Bash · PowerShell
 
-## 📁 Projects 42
+## 42 Projects
 
 | Project | Description |
 |---|---|
@@ -41,9 +56,9 @@ C · C++ · x86_64 ASM · Python · Windows · Linux · Docker · Vim · Bash ·
 | [Inception](https://github.com/Zibgame/Inception) | **DOCKER / DEVOPS** — Containerized services, networks and persistent storage. |
 | [Transcendence](https://github.com/Zibgame/ft_transcendence) | **FULL STACK** — Full-stack multiplayer web application. |
 
-## 🎯 Personal Projects
+## Personal Projects — Priority Ordered
 
-The following list preserves my deliberate priority order. These projects represent my offensive cybersecurity, low-level, AI and developer-tooling work.
+The following list preserves the deliberate priority order. It leads with the work most relevant to offensive cybersecurity, Windows internals and low-level engineering.
 
 | Project | Description |
 |---|---|
@@ -68,14 +83,14 @@ The following list preserves my deliberate priority order. These projects repres
 | [Vim Config](https://github.com/Zibgame/Vim-config) | **Developer Tools / Apps** · VIM — Personal Vim configuration inspired by the 42 environment. |
 | [Zsh Config](https://github.com/Zibgame/zsh-config) | **Developer Tools / Apps** · SHELL — Personalized Zsh configuration and workflow. |
 
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 
 - Public repositories: 56
 - Total stars across owned public repositories: 61
 - Followers: 39
 - Following: 35
 
-## ⚡ Currently
+## Current Focus
 
 Working on **Cisco cybersecurity certification and ethical hacking**.
 
