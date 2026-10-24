@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="112" viewBox="0 0 780 112" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="64" viewBox="0 0 780 64" role="img">
     <defs>
       <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
         <stop offset="0" stop-color="#0C1424"/><stop offset="1" stop-color="#070B14"/>
@@ -36,14 +36,9 @@ text,tspan{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mo
 @keyframes blink{0%,56%{opacity:1}57%,100%{opacity:.18}}
 @keyframes scan{from{transform:translateY(-30px)}to{transform:translateY(380px)}}
 @keyframes dash{to{stroke-dashoffset:-80}}
-</style><rect width="780" height="112" fill="#050811"/><rect width="780" height="112" fill="url(#halo)"/>
-    <rect x="1" y="1" width="778" height="110" rx="4" fill="url(#panel)" stroke="#1D3354"/>
-    <rect x="1" y="1" width="5" height="110" rx="2" fill="#FF9F43"/>
-    <rect x="22" y="17" width="34" height="34" rx="4" fill="#070D18" stroke="#FF9F43"/>
-    <text x="39" y="39" text-anchor="middle" class="sans" font-size="10" font-weight="800" fill="#FF9F43">42</text>
-    <text x="70" y="31" class="sans" font-size="16" font-weight="750" fill="#DCE9F7">03 // 42 PROJECTS</text>
-    <text x="758" y="29" text-anchor="end" class="micro" fill="#FF9F43">CURRICULUM://CORE</text>
-    <path d="M70 45H758" stroke="#1D3354"/>
-    <text x="22" y="77" class="sans" font-size="11.2" fill="#7D91A9">A practical foundation in systems programming, concurrency, networking, graphics</text>
-    <text x="22" y="96" class="sans" font-size="11.2" fill="#7D91A9">and software architecture. Selected work is listed below as readable project notes.</text>
-    <circle class="pulse" cx="758" cy="91" r="3" fill="#FF9F43"/></svg>
+</style><rect width="780" height="64" fill="#050811"/><rect width="780" height="64" fill="url(#halo)"/>
+    <rect x="1" y="1" width="778" height="62" rx="4" fill="url(#panel)" stroke="#1D3354"/>
+    <rect x="1" y="1" width="5" height="62" rx="2" fill="#377DFF"/>
+    <text x="24" y="38" class="sans" font-size="16" font-weight="750" fill="#DCE9F7">PERSONAL PROJECTS <tspan fill="#377DFF">// 04</tspan></text>
+    <text x="756" y="36" text-anchor="end" class="micro" fill="#58E6FF">WORK://SELECTED</text>
+    <circle class="pulse" cx="756" cy="17" r="3" fill="#377DFF"/></svg>

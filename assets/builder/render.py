@@ -192,53 +192,39 @@ def about() -> str:
 
 def capabilities() -> str:
     body = frame(142, "BIN://TOOLCHAIN", "02 // LANGUAGES & TOOLS")
-    palette = [
-        COLORS["cyan"], COLORS["blue"], COLORS["amber"], COLORS["green"],
-        COLORS["blue"], COLORS["orange"], COLORS["green"], COLORS["text"],
-        COLORS["cyan"], COLORS["purple"],
-    ]
     icon_files = [
         "c.svg", "cplusplus.svg", "python.svg", "vim.svg", "windows-original.png",
         "assembly-blue.svg", "bash.svg", "linux.svg", "docker-original.png", "powershell.svg",
     ]
     x_positions = [22 + index * 73.6 for index in range(10)]
-    for index, (tool, color, icon_file, x) in enumerate(
-        zip(config.TOOLS, palette, icon_files, x_positions)
+    for index, (tool, icon_file, x) in enumerate(
+        zip(config.TOOLS, icon_files, x_positions)
     ):
         icon = (
             svg_with_replacements_uri(ICONS / icon_file, {"#293138": "#EAF0F7"})
             if icon_file == "bash.svg"
             else data_uri(ICONS / icon_file)
         )
-        body += f'<rect x="{x:.1f}" y="48" width="60" height="78" rx="5" fill="#070D18" stroke="{color}" stroke-opacity=".72"/>'
+        body += f'<rect x="{x:.1f}" y="48" width="60" height="78" rx="5" fill="#070D18" stroke="{COLORS["line2"]}"/>'
         body += f'<image x="{x + 12:.1f}" y="57" width="36" height="36" preserveAspectRatio="xMidYMid meet" href="{icon}"/>'
-        body += f'<circle class="pulse" style="animation-delay:{index * 0.17:.2f}s" cx="{x + 52:.1f}" cy="56" r="2.5" fill="{color}"/>'
+        body += f'<circle class="pulse" style="animation-delay:{index * 0.17:.2f}s" cx="{x + 52:.1f}" cy="56" r="2.5" fill="{COLORS["blue"]}"/>'
         body += f'<text x="{x + 30:.1f}" y="113" text-anchor="middle" class="sans" font-size="8.5" font-weight="650" fill="{COLORS["text"]}">{escape(tool)}</text>'
     return document(WIDTH, 142, body)
 
 
-def project_intro(
-    number: str,
+def project_header(
     title: str,
+    number: str,
     code: str,
-    accent: str,
-    first_line: str,
-    second_line: str,
-    icon: str,
 ) -> str:
-    body = background(112) + f"""
-    <rect x="1" y="1" width="778" height="110" rx="4" fill="url(#panel)" stroke="{COLORS['line']}"/>
-    <rect x="1" y="1" width="5" height="110" rx="2" fill="{accent}"/>
-    <rect x="22" y="17" width="34" height="34" rx="4" fill="#070D18" stroke="{accent}"/>
-    <text x="39" y="39" text-anchor="middle" class="sans" font-size="10" font-weight="800" fill="{accent}">{escape(icon)}</text>
-    <text x="70" y="31" class="sans" font-size="16" font-weight="750" fill="{COLORS['text']}">{escape(number)} // {escape(title)}</text>
-    <text x="758" y="29" text-anchor="end" class="micro" fill="{accent}">{escape(code)}</text>
-    <path d="M70 45H758" stroke="{COLORS['line']}"/>
-    <text x="22" y="77" class="sans" font-size="11.2" fill="{COLORS['muted']}">{escape(first_line)}</text>
-    <text x="22" y="96" class="sans" font-size="11.2" fill="{COLORS['muted']}">{escape(second_line)}</text>
-    <circle class="pulse" cx="758" cy="91" r="3" fill="{accent}"/>
+    body = background(64) + f"""
+    <rect x="1" y="1" width="778" height="62" rx="4" fill="url(#panel)" stroke="{COLORS['line']}"/>
+    <rect x="1" y="1" width="5" height="62" rx="2" fill="{COLORS['blue']}"/>
+    <text x="24" y="38" class="sans" font-size="16" font-weight="750" fill="{COLORS['text']}">{escape(title)} <tspan fill="{COLORS['blue']}">// {escape(number)}</tspan></text>
+    <text x="756" y="36" text-anchor="end" class="micro" fill="{COLORS['cyan']}">{escape(code)}</text>
+    <circle class="pulse" cx="756" cy="17" r="3" fill="{COLORS['blue']}"/>
     """
-    return document(WIDTH, 112, body.rstrip())
+    return document(WIDTH, 64, body.rstrip())
 
 
 def telemetry(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> str:
@@ -340,18 +326,12 @@ def write(path: Path, content: str) -> None:
 def render_all(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> None:
     write(GENERATED / "hero.svg", hero(stats))
     write(GENERATED / "about.svg", about())
-    write(GENERATED / "capabilities.svg", capabilities())
-    write(GENERATED / "section-42.svg", project_intro(
-        "03", "42 PROJECTS", "CURRICULUM://CORE", COLORS["orange"],
-        "A practical foundation in systems programming, concurrency, networking, graphics",
-        "and software architecture. Selected work is listed below as readable project notes.",
-        "42",
+    write(GENERATED / "toolchain.svg", capabilities())
+    write(GENERATED / "projects-42-header.svg", project_header(
+        "42 PROJECTS", "03", "CURRICULUM://CORE",
     ))
-    write(GENERATED / "section-personal.svg", project_intro(
-        "04", "PERSONAL PROJECTS", "WORK://SELECTED", COLORS["cyan"],
-        "Security research, low-level systems and developer software built outside the curriculum.",
-        "Selected work reflects my current direction across Windows internals and tooling.",
-        "PX",
+    write(GENERATED / "personal-projects-header.svg", project_header(
+        "PERSONAL PROJECTS", "04", "WORK://SELECTED",
     ))
     write(GENERATED / "currently.svg", currently())
     write(GENERATED / "telemetry.svg", telemetry(stats, languages, calendar))

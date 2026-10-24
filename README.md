@@ -5,18 +5,11 @@
 
 <img src="./assets/generated/hero.svg" alt="Zibrian Cadinot — cybersecurity engineering, low-level systems and software development" width="100%">
 
-<p align="center">
-  <a href="https://zibgame.github.io">Website</a> ·
-  <a href="https://www.linkedin.com/in/zibrian-cadinot">LinkedIn</a> ·
-  <a href="https://profile.hackthebox.com/profile/019d539a-c442-70f1-b6c9-1231e7ac1b94">Hack The Box</a> ·
-  <a href="https://app.intigriti.com/researcher/profile/zibgame">Intigriti</a>
-</p>
-
 <img src="./assets/generated/about.svg" alt="About Zibrian Cadinot — 42 Le Havre student focused on cybersecurity engineering and low-level systems" width="100%">
 
-<img src="./assets/generated/capabilities.svg" alt="Languages and tools — C, C++, Python, Vim, Windows, x86-64 Assembly, Bash, Linux, Docker and PowerShell" width="100%">
+<img src="./assets/generated/toolchain.svg" alt="Languages and tools — C, C++, Python, Vim, Windows, x86-64 Assembly, Bash, Linux, Docker and PowerShell" width="100%">
 
-<img src="./assets/generated/section-42.svg" alt="42 projects — systems programming, concurrency, networking, graphics and software architecture" width="100%">
+<img src="./assets/generated/projects-42-header.svg" alt="42 projects" width="100%">
 
 | Project | Area | What I built |
 |---|---|---|
@@ -45,7 +38,7 @@
 
 </details>
 
-<img src="./assets/generated/section-personal.svg" alt="Personal projects — security research, low-level systems and developer software" width="100%">
+<img src="./assets/generated/personal-projects-header.svg" alt="Personal projects" width="100%">
 
 | Project | Focus | What it demonstrates |
 |---|---|---|

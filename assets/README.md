@@ -12,8 +12,8 @@ The generator updates:
 
 - `hero.svg` — identity, portrait and public GitHub totals;
 - `about.svg` — compact profile introduction and research scope;
-- `capabilities.svg` — visual language and toolchain strip using the repository icons;
-- `section-42.svg` and `section-personal.svg` — project-section introductions;
+- `toolchain.svg` — single-row language and toolchain strip using the original repository icons;
+- `projects-42-header.svg` and `personal-projects-header.svg` — compact project-section headers;
 - `currently.svg` — current learning focus;
 - `telemetry.svg` — repository, language and contribution data;
 - `contact-*.svg` — neutral contact cards;
