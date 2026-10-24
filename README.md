@@ -42,28 +42,29 @@
 
 | Project | Focus | What it demonstrates |
 |---|---|---|
+| [Obsidian Packer](https://github.com/Zibgame/Obsidian-Packer) | PE32+ · C++ | An x86-64 PE packer and in-memory loader implementing image reconstruction, relocations, import resolution, TLS and memory protections. |
 | [Stealth Hypervisor Win64](https://github.com/Zibgame/Stealth-Hypervisor) | UEFI · Virtualization | Type-1 hypervisor research for Windows x64, focused on VM introspection and low-level execution control. |
-| [TUI Debugger Win64](https://github.com/Zibgame/TUI-Debugger-Win64) | Debugging · Win64 | A terminal debugger exposing registers, assembly, breakpoints and process state in a compact interface. |
 | [PrivEscLib Win64](https://github.com/Zibgame/PrivEscLib-Win64) | Windows security | A reusable C++ library that studies Windows privilege-elevation mechanisms in controlled environments. |
+| [TUI Debugger Win64](https://github.com/Zibgame/TUI-Debugger-Win64) | Debugging · Win64 | A terminal debugger exposing registers, assembly, breakpoints and process state in a compact interface. |
 | [AntiDebugger Win64](https://github.com/Zibgame/AntiDebugger-Win64) | Reverse engineering | A collection of debugger and execution-anomaly checks for low-level security research. |
-| [Mockify](https://github.com/Zibgame/Mockify) | Python · Automation | An AI-assisted mockup pipeline with automated visual inspection and iterative quality control. |
 | [Bug bounty writeups](https://github.com/Zibgame/intigriti-writeups) | Web · API security | Authorized findings and technical writeups covering IDOR, API behavior and business-logic issues. |
 
 <details>
-<summary><strong>Show 12 additional personal projects</strong></summary>
+<summary><strong>Show 13 additional personal projects</strong></summary>
 
 | Project | Area | Summary |
 |---|---|---|
-| [UDP Flood Win64](https://github.com/Zibgame/UDP-Flood-Win64) | Network lab | Educational traffic-stress implementation for isolated and authorized environments. |
+| [PersistenceLib Win64](https://github.com/Zibgame/PersistenceLib-Win64) | Windows security | Modular persistence setup, detection and removal research. |
 | [Win64 DLL Injector](https://github.com/Zibgame/win32-dll-injector) | Windows internals | Process-memory and DLL-loading research on Windows x64. |
 | [C2 Windows x64](https://github.com/Zibgame/C2-Windows-x64) | Network security | A Winsock command-channel lab built for protocol and detection research. |
-| [PersistenceLib Win64](https://github.com/Zibgame/PersistenceLib-Win64) | Windows security | Modular persistence setup, detection and removal research. |
+| [ASM Lib](https://github.com/Zibgame/asm-lib) | x86-64 Assembly | A low-level assembly library and collection of systems exercises. |
+| [UDP Flood Win64](https://github.com/Zibgame/UDP-Flood-Win64) | Network lab | Educational traffic-stress implementation for isolated and authorized environments. |
+| [Mockify](https://github.com/Zibgame/Mockify) | Python · Automation | An AI-assisted mockup pipeline with automated visual inspection and iterative quality control. |
+| [Norm AI Fixer](https://github.com/Zibgame/norm-ai-fixer) | Python · Local AI | An offline code-normalization assistant with configurable rules. |
+| [AI Guitar MIDI Amp Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller) | Python · Audio | An AI-assisted guitar amplifier and MIDI-control experiment. |
 | [Zim](https://github.com/Zibgame/zim) | C++ · Editor | A minimal Vim-inspired terminal editor with modal navigation. |
 | [Lite Calculator](https://github.com/Zibgame/calculator-app) | C# · WPF | A lightweight desktop calculator with a restrained interface. |
-| [AI Guitar MIDI Amp Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller) | Python · Audio | An AI-assisted guitar amplifier and MIDI-control experiment. |
-| [Norm AI Fixer](https://github.com/Zibgame/norm-ai-fixer) | Python · Local AI | An offline code-normalization assistant with configurable rules. |
-| [ASM Lib](https://github.com/Zibgame/asm-lib) | x86-64 Assembly | A low-level assembly library and collection of systems exercises. |
-| [ft_randint](https://github.com/Zibgame/ft_randint) | C · Algorithms | An experimental pseudo-random integer generator. |
+| [ft_randint](https://github.com/Zibgame/ft_randint) | C · Algorithms | A custom pseudo-random integer generator implemented in C. |
 | [Vim configuration](https://github.com/Zibgame/Vim-config) | Developer tooling | A focused Vim environment inspired by the 42 workflow. |
 | [Zsh configuration](https://github.com/Zibgame/zsh-config) | Shell | A maintained Zsh configuration for daily development work. |
 

@@ -47,22 +47,23 @@ The following list preserves my deliberate priority order. These projects repres
 
 | Project | Description |
 |---|---|
-| [Mockify](https://github.com/Zibgame/Mockify) | **Ai / Automation** · PYTHON / AI — AI-driven mockup pipeline with automated visual quality control. |
+| [Obsidian-Packer](https://github.com/Zibgame/Obsidian-Packer) | **Offensive / Cyber** · PE32+ / C++ — x86-64 PE packer and in-memory loader with image reconstruction, relocations, imports, TLS and memory protections. |
 | [Stealth-Hypervisor-Win64](https://github.com/Zibgame/Stealth-Hypervisor) | **Low-Level / Systems** · UEFI / VIRTUALIZATION — Type-1 Win64 research hypervisor with VM introspection. |
-| [UDP-Flood-Win64](https://github.com/Zibgame/UDP-Flood-Win64) | **Offensive / Cyber** · NETWORK LAB — Educational UDP traffic-stress implementation for authorized labs. |
-| [Win64-Dll-Injector](https://github.com/Zibgame/win32-dll-injector) | **Offensive / Cyber** · WINDOWS INTERNALS — Process memory and DLL loading research on Win64. |
-| [C2-Windows-x64](https://github.com/Zibgame/C2-Windows-x64) | **Offensive / Cyber** · CONTROLLED LAB — Winsock command-channel lab for security education. |
-| [PersistenceLib-Win64](https://github.com/Zibgame/PersistenceLib-Win64) | **Offensive / Cyber** · WINDOWS SECURITY — Modular persistence setup, detection and removal research. |
 | [PrivEscLib-Win64](https://github.com/Zibgame/PrivEscLib-Win64) | **Offensive / Cyber** · WINDOWS SECURITY — Privilege-elevation mechanisms studied in controlled environments. |
+| [TUI Debugger Win64](https://github.com/Zibgame/TUI-Debugger-Win64) | **Low-Level / Systems** · DEBUGGING / WIN64 — Terminal debugger with registers, assembly and breakpoints. |
 | [AntiDebugger-Win64](https://github.com/Zibgame/AntiDebugger-Win64) | **Offensive / Cyber** · REVERSE ENGINEERING — Debugger and anomaly detection for low-level security research. |
 | [Bug Bounty](https://github.com/Zibgame/intigriti-writeups) | **Offensive / Cyber** · WEB / API SECURITY — Authorized findings and writeups: IDOR, APIs and business logic. |
-| [TUI Debugger Win64](https://github.com/Zibgame/TUI-Debugger-Win64) | **Low-Level / Systems** · DEBUGGING / WIN64 — Terminal debugger with registers, assembly and breakpoints. |
+| [PersistenceLib-Win64](https://github.com/Zibgame/PersistenceLib-Win64) | **Offensive / Cyber** · WINDOWS SECURITY — Modular persistence setup, detection and removal research. |
+| [Win64-Dll-Injector](https://github.com/Zibgame/win32-dll-injector) | **Offensive / Cyber** · WINDOWS INTERNALS — Process memory and DLL loading research on Win64. |
+| [C2-Windows-x64](https://github.com/Zibgame/C2-Windows-x64) | **Offensive / Cyber** · CONTROLLED LAB — Winsock command-channel lab for security education. |
+| [ASM Lib](https://github.com/Zibgame/asm-lib) | **Low-Level / Systems** · ASM / C — x86_64 assembly library and low-level exercises. |
+| [UDP-Flood-Win64](https://github.com/Zibgame/UDP-Flood-Win64) | **Offensive / Cyber** · NETWORK LAB — Educational UDP traffic-stress implementation for authorized labs. |
+| [Mockify](https://github.com/Zibgame/Mockify) | **Ai / Automation** · PYTHON / AI — AI-driven mockup pipeline with automated visual quality control. |
+| [Norm AI Fixer](https://github.com/Zibgame/norm-ai-fixer) | **Ai / Automation** · PYTHON / LOCAL AI — Offline AI code normalizer with configurable rules. |
+| [AI Guitar MIDI Amp Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller) | **Ai / Automation** · PYTHON / AUDIO — AI-assisted guitar amplifier and MIDI controller. |
 | [Zim](https://github.com/Zibgame/zim) | **Developer Tools / Apps** · C++ / EDITOR — Minimal Vim-inspired terminal editor with modal navigation. |
 | [Lite Calculator App](https://github.com/Zibgame/calculator-app) | **Developer Tools / Apps** · C# / WPF — Lightweight desktop calculator with a clean WPF interface. |
-| [AI Guitar MIDI Amp Controller](https://github.com/Zibgame/ai-guitar-midi-amp-controller) | **Ai / Automation** · PYTHON / AUDIO — AI-assisted guitar amplifier and MIDI controller. |
-| [Norm AI Fixer](https://github.com/Zibgame/norm-ai-fixer) | **Ai / Automation** · PYTHON / LOCAL AI — Offline AI code normalizer with configurable rules. |
-| [ASM Lib](https://github.com/Zibgame/asm-lib) | **Low-Level / Systems** · ASM / C — x86_64 assembly library and low-level exercises. |
-| [ft_randint](https://github.com/Zibgame/ft_randint) | **Low-Level / Systems** · C / ALGORITHMS — Experimental pseudo-random integer generator in C. |
+| [ft_randint](https://github.com/Zibgame/ft_randint) | **Low-Level / Systems** · C / ALGORITHMS — Custom pseudo-random integer generator implemented in C. |
 | [Vim Config](https://github.com/Zibgame/Vim-config) | **Developer Tools / Apps** · VIM — Personal Vim configuration inspired by the 42 environment. |
 | [Zsh Config](https://github.com/Zibgame/zsh-config) | **Developer Tools / Apps** · SHELL — Personalized Zsh configuration and workflow. |
 
