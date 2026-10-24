@@ -207,11 +207,26 @@ def capabilities() -> str:
             if icon_file == "bash.svg"
             else data_uri(ICONS / icon_file)
         )
-        body += f'<rect x="{x:.1f}" y="48" width="60" height="78" rx="5" fill="#070D18" stroke="{COLORS["line2"]}"/>'
-        body += f'<image x="{x + 12:.1f}" y="57" width="36" height="36" preserveAspectRatio="xMidYMid meet" href="{icon}"/>'
-        body += f'<circle class="pulse" style="animation-delay:{index * 0.17:.2f}s" cx="{x + 52:.1f}" cy="56" r="2.5" fill="{COLORS["blue"]}"/>'
-        body += f'<text x="{x + 30:.1f}" y="113" text-anchor="middle" class="sans" font-size="8.5" font-weight="650" fill="{COLORS["text"]}">{escape(tool)}</text>'
-    return document(WIDTH, 142, body)
+        delay = index * 1.05
+        body += f'<g class="tool-card" style="animation-delay:{delay:.2f}s">'
+        body += f'<rect x="{x:.1f}" y="99" width="60" height="29" rx="5" fill="#0A1628" stroke="{COLORS["blue"]}" stroke-opacity=".72"/>'
+        body += f'<rect x="{x:.1f}" y="47" width="60" height="60" rx="5" fill="#070D18" stroke="{COLORS["line2"]}"/>'
+        body += f'<image x="{x + 11:.1f}" y="57" width="38" height="38" preserveAspectRatio="xMidYMid meet" href="{icon}"/>'
+        body += f'<circle cx="{x + 52:.1f}" cy="55" r="2.5" fill="{COLORS["blue"]}"/>'
+        body += f'<text x="{x + 30:.1f}" y="121" text-anchor="middle" class="sans" font-size="8.2" font-weight="700" fill="{COLORS["text"]}">{escape(tool)}</text>'
+        body += '</g>'
+    tool_style = f"""
+    .tool-card{{
+      transform-box:fill-box;
+      transform-origin:center;
+      animation:toolSelect 10.5s ease-in-out infinite both;
+    }}
+    @keyframes toolSelect{{
+      0%,9%,100%{{transform:translateY(0) scale(1);filter:drop-shadow(0 0 0 {COLORS['blue']});}}
+      4.5%{{transform:translateY(-4px) scale(1.07);filter:drop-shadow(0 4px 7px {COLORS['blue']});}}
+    }}
+    """
+    return document(WIDTH, 142, body, style=tool_style)
 
 
 def project_header(
@@ -328,7 +343,7 @@ def write(path: Path, content: str) -> None:
 def render_all(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> None:
     write(GENERATED / "hero.svg", hero(stats))
     write(GENERATED / "about-v2.svg", about())
-    write(GENERATED / "toolchain-v4.svg", capabilities())
+    write(GENERATED / "toolchain-v5.svg", capabilities())
     write(GENERATED / "projects-42-header.svg", project_header(
         "42 PROJECTS", "03", "CURRICULUM://CORE",
     ))

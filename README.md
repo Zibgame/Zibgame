@@ -7,7 +7,7 @@
 
 <img src="./assets/generated/about-v2.svg" alt="About Zibrian Cadinot — offensive security developer and low-level systems builder at 42 Le Havre" width="100%">
 
-<img src="./assets/generated/toolchain-v4.svg" alt="Languages and tools — C, C++, x86-64 Assembly, Python, Windows, Linux, Docker, Vim, Bash and PowerShell" width="100%">
+<img src="./assets/generated/toolchain-v5.svg" alt="Animated languages and tools — C, C++, x86-64 Assembly, Python, Windows, Linux, Docker, Vim, Bash and PowerShell" width="100%">
 
 <img src="./assets/generated/projects-42-header.svg" alt="42 projects" width="100%">
 
