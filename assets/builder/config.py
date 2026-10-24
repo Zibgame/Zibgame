@@ -24,8 +24,8 @@ FALLBACK_LANGUAGES = [
 ]
 
 TOOLS = [
-    "C", "C++", "Python", "Vim", "Windows", "x86_64 ASM",
-    "Bash", "Linux", "Docker", "PowerShell",
+    "C", "C++", "Python", "x86_64 ASM", "Windows", "Linux",
+    "Docker", "Vim", "Bash", "PowerShell",
 ]
 
 TOOL_GROUPS = [

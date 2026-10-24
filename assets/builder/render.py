@@ -193,8 +193,8 @@ def about() -> str:
 def capabilities() -> str:
     body = frame(142, "BIN://TOOLCHAIN", "02 // LANGUAGES & TOOLS")
     icon_files = [
-        "c.svg", "cplusplus.svg", "python.svg", "vim.svg", "windows-original.png",
-        "assembly-blue.svg", "bash.svg", "linux.svg", "docker-original.png", "powershell.svg",
+        "c.svg", "cplusplus.svg", "python.svg", "assembly-blue.svg", "windows-original.png",
+        "linux.svg", "docker-original.png", "vim.svg", "bash.svg", "powershell.svg",
     ]
     x_positions = [22 + index * 73.6 for index in range(10)]
     for index, (tool, icon_file, x) in enumerate(
@@ -326,7 +326,7 @@ def write(path: Path, content: str) -> None:
 def render_all(stats: dict, languages: list[tuple[str, float]], calendar: list[int]) -> None:
     write(GENERATED / "hero.svg", hero(stats))
     write(GENERATED / "about.svg", about())
-    write(GENERATED / "toolchain.svg", capabilities())
+    write(GENERATED / "toolchain-v2.svg", capabilities())
     write(GENERATED / "projects-42-header.svg", project_header(
         "42 PROJECTS", "03", "CURRICULUM://CORE",
     ))

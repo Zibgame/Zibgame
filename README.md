@@ -7,7 +7,7 @@
 
 <img src="./assets/generated/about.svg" alt="About Zibrian Cadinot — 42 Le Havre student focused on cybersecurity engineering and low-level systems" width="100%">
 
-<img src="./assets/generated/toolchain.svg" alt="Languages and tools — C, C++, Python, Vim, Windows, x86-64 Assembly, Bash, Linux, Docker and PowerShell" width="100%">
+<img src="./assets/generated/toolchain-v2.svg" alt="Languages and tools — C, C++, Python, x86-64 Assembly, Windows, Linux, Docker, Vim, Bash and PowerShell" width="100%">
 
 <img src="./assets/generated/projects-42-header.svg" alt="42 projects" width="100%">
 
