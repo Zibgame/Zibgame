@@ -18,7 +18,7 @@ All security work is designed for **authorized environments, educational laborat
 
 ## 🛠️ Languages & Tools
 
-x86_64 ASM · C · C++ · Python · Windows · Linux · Docker · Vim · Bash · PowerShell
+C · C++ · x86_64 ASM · Python · Windows · Linux · Docker · Vim · Bash · PowerShell
 
 ## 📁 Projects 42
 
