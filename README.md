@@ -48,6 +48,7 @@
 | [PrivEscLib Win64](https://github.com/Zibgame/PrivEscLib-Win64) | Windows security | A reusable C++ library that studies Windows privilege-elevation mechanisms in controlled environments. |
 | [AntiDebugger Win64](https://github.com/Zibgame/AntiDebugger-Win64) | Reverse engineering | A collection of debugger and execution-anomaly checks for low-level security research. |
 | [PersistenceLib Win64](https://github.com/Zibgame/PersistenceLib-Win64) | Windows security | Modular persistence setup, detection and removal research. |
+| [RainFall](https://github.com/Zibgame/ft_rainfall) | ELF · Binary Exploitation | Linux x86-64 binary exploitation and reverse engineering, covering stack overflows, control-flow hijacking and reproducible exploit development. |
 | [Bug bounty writeups](https://github.com/Zibgame/intigriti-writeups) | Web · API security | Authorized findings and technical writeups covering IDOR, API behavior and business-logic issues. |
 
 <details>
